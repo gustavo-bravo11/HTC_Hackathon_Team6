@@ -31,8 +31,12 @@ data_dict = {
 }
 
 # Normalize column names
+# Also add montly prefix to monthly df, and replace the date name
 for name, df in data_dict.items():
     df.columns = df.columns.str.lower().str.replace(' ', '_').str.replace('(', '_').str.replace(')', '')
+    if name == 'facility_monthly_production':
+        df.columns = df.columns.map(lambda x: 'monthly_' + x if x not in ['id', 'location', 'date', 'sub_type'] else x)
+        df.rename(columns={'date': 'production_month'}, inplace=True)
 
 # Function to convert DMS coordinates to decimal degrees
 def dms_to_dd(dms):
@@ -49,12 +53,12 @@ data_dict["facilities"]["latitude"] = data_dict["facilities"]["latitude"].apply(
 data_dict["facilities"]["longitude"] = data_dict["facilities"]["longitude"].apply(dms_to_dd)
 
 # Drop columns with all NaN values
+facilities.dropna(axis=1, how='all', inplace=True)
 facility_capacity.dropna(axis=1, how='all', inplace=True)
 facility_total_production.dropna(axis=1, how='all', inplace=True)
 facility_monthly_production.dropna(axis=1, how='all', inplace=True)
 
-# Drop columns where the id or operator in facility is empty
-facilities.dropna(subset=['id', 'current_operator'], inplace=True)
+facilities.dropna(subset=['id', 'current_operator', 'name'], inplace=True)
 
 # Standardize operator names
 facilities['current_operator'] = facilities['current_operator'].replace({
@@ -91,18 +95,17 @@ for name, df in data_dict.items():
 
 # Convert date fields
 data_dict["facilities"]["constructed_date"] = pd.to_datetime(data_dict["facilities"]["constructed_date"], format='%m/%d/%Y')
-data_dict["facility_monthly_production"]["date"] = pd.to_datetime(data_dict["facility_monthly_production"]["date"], format='%Y/%m')
+data_dict["facility_monthly_production"]["production_month"] = pd.to_datetime(data_dict["facility_monthly_production"]["production_month"], format='%Y/%m')
 
 # Ensure output directory exists
 if not os.path.exists("data_cleaned"):
     os.mkdir("data_cleaned")
 
 # Save cleaned datasets
-data_dict["facilities"].to_csv("data_cleaned/facilities.csv", index=False)
-data_dict["facility_capacity"].to_csv("data_cleaned/facility_capacity.csv", index=False)
-data_dict["facility_total_production"].to_csv("data_cleaned/facility_total_production.csv", index=False)
-data_dict["facility_monthly_production"].to_csv("data_cleaned/facility_monthly_production.csv", index=False)
+for name, df in data_dict.items():
+    if not os.path.exists(f"data_cleaned/{name}"):
+        os.mkdir(f"data_cleaned/{name}")
+    df.to_csv(f"data_cleaned/{name}/{name}.csv", index=False)
 
-# Output the completed dataset heads to the console
-for df in data_dict.values():
-    print(df.head(10))
+# for df in data_dict.values():
+#     print(df.head(10))
