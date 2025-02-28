@@ -7,36 +7,33 @@ data = pd.read_csv("../data_sets/Geoscout Facility Data Dump.csv", low_memory=Fa
 # Rename primary key column
 data.columns = data.columns.str.replace('Unique Facility ID', 'id')
 
-# Facility data
+# Normalize colum names
+data.columns = data.columns.str.lower().str.replace(' ', '_').str.replace('(', '_').str.replace(')', '')
+
+# Drop columns with no id name or operator
+data.dropna(subset=['id', 'current_operator', 'name'], inplace=True)
+
+# Split the data into seperate tables
 facilities = data.iloc[:, :13].drop_duplicates().reset_index(drop=True)
-
-# Capacity data
 facility_capacity = data.iloc[:, [0] + list(range(13, 35))].drop_duplicates().reset_index(drop=True)
-
-# Production data
 facility_total_production = data.iloc[:, [0] + list(range(35, 45))].drop_duplicates().reset_index(drop=True)
-
-# Monthly production data
 facility_monthly_production = data.iloc[:, [0] + list(range(45, 76))].drop_duplicates().reset_index(drop=True)
 
-# Inventory and metering data
-facility_inventory_meter = data.iloc[:, [0] + list(range(76, 94))].drop_duplicates().reset_index(drop=True)
+# Add a prefix and make the date name more appropriate
+facility_monthly_production.columns = facility_monthly_production\
+    .columns.map(lambda x: 'monthly_' + x if x not in ['id', 'location', 'date', 'sub_type'] else x)
+facility_monthly_production.rename(columns={'date': 'production_month'}, inplace=True)
 
-# Dictionary of datasets
+# # This table contains no data
+# facility_inventory_meter = data.iloc[:, [0] + list(range(76, 94))].drop_duplicates().reset_index(drop=True)
+
+# Create dictionary of dataframes for easier manipulation
 data_dict = {
     "facilities": facilities,
     "facility_capacity": facility_capacity,
     "facility_total_production": facility_total_production,
     "facility_monthly_production": facility_monthly_production,
 }
-
-# Normalize column names
-# Also add montly prefix to monthly df, and replace the date name
-for name, df in data_dict.items():
-    df.columns = df.columns.str.lower().str.replace(' ', '_').str.replace('(', '_').str.replace(')', '')
-    if name == 'facility_monthly_production':
-        df.columns = df.columns.map(lambda x: 'monthly_' + x if x not in ['id', 'location', 'date', 'sub_type'] else x)
-        df.rename(columns={'date': 'production_month'}, inplace=True)
 
 # Function to convert DMS coordinates to decimal degrees
 def dms_to_dd(dms):
@@ -57,8 +54,6 @@ facilities.dropna(axis=1, how='all', inplace=True)
 facility_capacity.dropna(axis=1, how='all', inplace=True)
 facility_total_production.dropna(axis=1, how='all', inplace=True)
 facility_monthly_production.dropna(axis=1, how='all', inplace=True)
-
-facilities.dropna(subset=['id', 'current_operator', 'name'], inplace=True)
 
 # Standardize operator names
 facilities['current_operator'] = facilities['current_operator'].replace({
