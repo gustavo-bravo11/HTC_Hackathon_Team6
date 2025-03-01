@@ -15,11 +15,11 @@ ab_emissions.rename(columns={'ghgrp_id_no.': 'ghgrp_id'}, inplace=True)
 
 # Extract relevant facility data
 ghg_facilities = ab_emissions[[
-    'ghgrp_id', 'reference_year', 'facility_name', 'dls', 'total_emissions__tonnes_co2e'
+    'dls', 'reference_year', 'total_emissions__tonnes_co2e'
 ]].drop_duplicates().reset_index(drop=True)
 
 # Load facility data
-facilities_data = pd.read_csv("data_cleaned/facilities/facilities.csv")
+facilities_data = pd.read_csv("data_cleaned/facilities/facilities.csv")[['id', 'location']]
 
 # Merge with facilities data
 merged = facilities_data.merge(ghg_facilities, left_on="location", right_on="dls", how="inner")
@@ -30,4 +30,4 @@ facilities_total_emissions = merged.groupby(['id', 'reference_year'])[['total_em
 # Save results
 path = "data_cleaned/yearly_total_emissions_co2"
 os.makedirs(path, exist_ok=True)
-merged.to_csv(f"{path}/yearly_total_emissions_co2.csv", index=False)
+facilities_total_emissions.to_csv(f"{path}/yearly_total_emissions_co2.csv", index=False)
