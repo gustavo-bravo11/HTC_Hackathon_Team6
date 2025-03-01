@@ -12,7 +12,7 @@ grpcio==1.70.0
 h5py==3.13.0
 idna==3.10
 joblib==1.4.2
-keras==3.8.0
+# keras==3.8.0
 kiwisolver==1.4.8
 libclang==18.1.1
 Markdown==3.7
@@ -44,8 +44,8 @@ setuptools==75.8.0
 six==1.17.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
-tensorflow_intel==2.18.0
+# tensorflow==2.18.0
+# tensorflow_intel==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
 typing_extensions==4.12.2
