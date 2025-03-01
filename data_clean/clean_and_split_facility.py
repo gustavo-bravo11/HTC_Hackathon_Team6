@@ -66,7 +66,7 @@ for df in data_dict.values():
     df.drop(columns=df.columns[(df.eq(0) | df.isna()).all()], inplace=True)
 
 # Standardize operator names
-facilities['current_operator'] = facilities['current_operator'].replace({
+data_dict['facilities'].replace({
     'Altagas Holdings Inc.': 'Altagas Ltd.',
     'Atco Pipelines (North Tn8263923)': 'Atco Energy Solutions Ltd.',
     'Canlin Resources Partnership': 'Canlin Energy Corporation',
@@ -86,7 +86,9 @@ facilities['current_operator'] = facilities['current_operator'].replace({
     'Pembina Ngl Corporation': 'Pembina Pipeline',
     'Shell Canada Energy': 'Shell Canada Limited',
     'Xto Energy Canada': 'Xto Energy Canada Ulc'
-})
+}, inplace=True)
+
+print(sorted(data_dict['facilities']['current_operator'].unique()))
 
 data_dict['facilities']['name'] = facilities['name'].str.lstrip('* ')
 
@@ -118,7 +120,6 @@ for name, df in data_dict.items():
         os.mkdir(f"data_cleaned/{name}")
     df.to_csv(f"data_cleaned/{name}/{name}.csv", index=False)
 
-for df in data_dict.values():
-    print(df.head(10))
+
 
 # print(data_dict['facilities'].head(30))
