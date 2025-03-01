@@ -1,4 +1,5 @@
 .vscode/
 lat_long_to_lsd/ATS_Polygons_SHP_Geographic/
 data_sets/
+data_clean/data_cleaned/facility_monthly_production_pivoted
 myenv/
