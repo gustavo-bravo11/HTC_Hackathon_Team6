@@ -100,6 +100,14 @@ for name, df in data_dict.items():
 data_dict["facilities"]["constructed_date"] = pd.to_datetime(data_dict["facilities"]["constructed_date"], format='%Y-%m-%d')
 data_dict["facility_monthly_production"]["production_month"] = pd.to_datetime(data_dict["facility_monthly_production"]["production_month"], format='%b-%y')
 
+monthly_prod_melted = pd.melt(
+    data_dict['facility_monthly_production'],
+    id_vars=['id', 'production_month'],
+    var_name='product',
+    value_name='mcf/d'
+)
+data_dict['facility_monthly_production_pivoted'] = monthly_prod_melted
+
 # Ensure output directory exists
 if not os.path.exists("data_cleaned"):
     os.mkdir("data_cleaned")
