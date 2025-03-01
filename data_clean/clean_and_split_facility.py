@@ -78,6 +78,8 @@ facilities['current_operator'] = facilities['current_operator'].replace({
     'Xto Energy Canada': 'Xto Energy Canada Ulc'
 })
 
+data_dict['facilities']['name'] = facilities['name'].str.lstrip('* ')
+
 # Lastly, I want to add the LSD column from the monthly production data to the facility table
 lsd = facility_monthly_production[['id', 'location']].drop_duplicates().reset_index(drop=True)
 data_dict['facilities'] = facilities.merge(lsd, on='id', how='left')
@@ -104,3 +106,5 @@ for name, df in data_dict.items():
 
 # for df in data_dict.values():
 #     print(df.head(10))
+
+print(data_dict['facilities'].head(30))

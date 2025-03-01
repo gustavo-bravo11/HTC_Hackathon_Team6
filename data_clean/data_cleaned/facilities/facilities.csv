@@ -1,15 +1,15 @@
 id,status,name,type,plant_name,current_operator,co-owner,constructed_date,latitude,longitude,location
 ABGP0001001,Active,Maple Glen 15-36-036-16W4,GP,Maple Glen,Canadian Natural Resources Limited,0.0% - Cansearch Resources Ltd.; 0.0% - Canadian Natural Resources Limited,,52.14108,-112.15671,15-36-036-16W4M
 ABGP0001002,Suspended,Keyera Nevis Gas Plant 16-33-38-22W4,GP,Nevis,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,1956-01-01,52.31571,-113.07948,16-33-038-22W4M
-ABGP0001003,Suspended,* Gulf Pincher Creek,GP,Pincher Creek,Gulf Canada Limited,100.0% - Palmer Ranch (1984) Ltd.,,49.30742,-113.79413,01-23-004-29W4M
+ABGP0001003,Suspended,Gulf Pincher Creek,GP,Pincher Creek,Gulf Canada Limited,100.0% - Palmer Ranch (1984) Ltd.,,49.30742,-113.79413,01-23-004-29W4M
 ABGP0001004,Active,Keyera Homeglen-Rimbey 2-05-44-01W5,GP,Rimbey,Keyera Energy Ltd.,0.0% - Centipede Holdings Ltd.; 0.8% - Bellatrix Exploration Ltd.; 0.1% - Altagas Pipeline Partnership; 98.8% - Keyera Energy Ltd.; 0.1% - Mosaic Energy Ltd.; 0.0% - Canadian Natural Resources Limited; 0.0% - Bonavista Energy Corporation; 1.0% - Green Valley Energy Ltd.,1961-01-01,52.75808,-114.10751,02-05-044-01W5M
-ABGP0001005,Suspended,* Gulf Gilby,GP,Gilby,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,52.44144,-114.30466,06-13-040-03W5M
-ABGP0001006,Abandoned,* Chevron Nevis,GP,Nevis,Chevron Canada Limited,100.0% - Chevron Canada Limited,,52.37406,-113.0847,15-22-039-22W4M
+ABGP0001005,Suspended,Gulf Gilby,GP,Gilby,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,52.44144,-114.30466,06-13-040-03W5M
+ABGP0001006,Abandoned,Chevron Nevis,GP,Nevis,Chevron Canada Limited,100.0% - Chevron Canada Limited,,52.37406,-113.0847,15-22-039-22W4M
 ABGP0001007,Active,Mitsue 16-30-072-04W5,GP,Mitsue,Canadian Natural Resources Limited,90.0% - Canadian Natural Resources Limited; 10.0% - Superman Resources Inc.,1974-01-01,55.27045,-114.59501,16-30-072-04W5M
-ABGP0001008,Suspended,* Chevron Princess,GP,Princess,Chevron Canada Limited,100.0% - Chevron Canada Limited,,50.68309,-111.54795,12-12-020-12W4M
+ABGP0001008,Suspended,Chevron Princess,GP,Princess,Chevron Canada Limited,100.0% - Chevron Canada Limited,,50.68309,-111.54795,12-12-020-12W4M
 ABGP0001009,Suspended,Sedalia 9-29-31-5 Gp,GP,Sedalia,Baytex Energy Ltd.,100.0% - Baytex Energy Ltd.,1961-01-01,51.68719,-110.66947,09-29-031-05W4M
-ABGP0001010,Suspended,* Norcen Campbell-Namao,GP,Campbell,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.68898,-113.56889,01-26-054-25W4M
-ABGP0001011,Abandoned,* Shell Innisfail,GP,Innisfail,Shell Canada Limited,100.0% - Enhance Energy Inc.,,51.97168,-114.05239,01-03-035-01W5M
+ABGP0001010,Suspended,Norcen Campbell-Namao,GP,Campbell,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.68898,-113.56889,01-26-054-25W4M
+ABGP0001011,Abandoned,Shell Innisfail,GP,Innisfail,Shell Canada Limited,100.0% - Enhance Energy Inc.,,51.97168,-114.05239,01-03-035-01W5M
 ABGP0001012,Active,Pancdn Countess,GP,Makepeace,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,,50.91588,-112.44847,12-33-022-18W4M
 ABGP0001013,Active,Keyera Gilby Plant 15-22-040-03W5,GP,Gilby,Keyera Energy Ltd.,80.2% - Keyera Energy Ltd.; 1.2% - Harvest Operations Corp.; 5.1% - Pengrowth Energy Corporation; 5.1% - Nal Resources Limited; 5.7% - Omers Energy Inc.; 1.3% - Signalta Resources Limited,,52.46301,-114.34679,15-22-040-03W5M
 ABGP0001014,Active,Atco Carbon,GP,Carbon,Atco Energy Solutions Ltd.,100.0% - Atco Energy Solutions Ltd.,1967-01-01,51.47964,-113.05534,08-17-029-22W4M
@@ -17,7 +17,7 @@ ABGP0001015,Suspended,Wardlow 2-31-22-11W4,GP,Wardlow,Canadian Natural Resources
 ABGP0001016,Suspended,Cometra Wood River,GP,Cometra Wood River,Vintage Petroleum Canada; Inc.,100.0% - Vintage Petroleum Canada  Inc.,,52.69611,-113.29673,16-08-043-23W4M
 ABGP0001017,Suspended,Cessford 04-15-027-15W4,GP,Cessford,Canadian Natural Resources Limited,50.0% - Canadian Natural Resources Limited; 50.0% - Arc Resources Ltd.,1960-01-01,51.30157,-112.04131,04-15-027-15W4M
 ABGP0001018,Active,Taurus Consort 7-34-34-6W4 Gp,GP,Provost,Tamarack Acquisition Corp.,,1959-01-01,51.95995,-110.76973,07-34-034-06W4M
-ABGP0001019,Suspended,* Amoco Buck Creek,GP,Buck Creek,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001019,Suspended,Amoco Buck Creek,GP,Buck Creek,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,49.00158,-110.00785,01-01-001-01W4M
 ABGP0001020,Suspended,Devon Carstairs,GP,Carstairs,Bonavista Energy Corporation,20.0% - Bonavista Energy Corporation; 36.0% - Direct Energy Marketing Limited; 18.0% - Exxonmobil Canada Energy; 10.0% - Provident Energy Ltd.; 2.0% - Signalta Resources Limited; 8.0% - Bp Canada Energy Company,1960-01-01,51.53479,-114.20383,03-03-030-02W5M
 ABGP0001021,Active,Garrington Olds,GP,Garrington,Whitecap Resources Inc.,100.0% - Whitecap Resources Inc.,1964-01-01,51.74229,-114.13455,06-18-032-01W5M
 ABGP0001022,Active,Cessford 02-08-024-12W4,GP,Cessford,Canadian Natural Resources Limited,47.0% - Imperial Oil Limited; 52.0% - Canadian Natural Resources Limited,1958-01-01,51.02502,-111.64172,02-08-024-12W4M
@@ -25,26 +25,26 @@ ABGP0001023,Abandoned,Imperial Leduc-Woodbend,GP,Leduc Woodbend,Imperial Oil Res
 ABGP0001024,Active,Boundary Lake 01-14-085-13W6,GP,Boundary Lake South,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,56.36475,-119.92871,01-14-085-13W6M
 ABGP0001025,Reclamation Certified,Devon Normandville,GP,Normandville,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,55.83788,-117.39082,13-09-079-22W5M
 ABGP0001026,Abandoned,Cessford 7-17-26-14W4,GP,Cessford,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.21801,-111.92082,07-17-026-14W4M
-ABGP0001027,Suspended,* Imperial Golden Spike,GP,Golden Spike,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.42286,-113.8948,15-22-051-27W4M
+ABGP0001027,Suspended,Imperial Golden Spike,GP,Golden Spike,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.42286,-113.8948,15-22-051-27W4M
 ABGP0001028,Active,Accel Energy Redwater Gp,GP,Redwater,Accel Canada Holdings Limited,100.0% - Arc Resources Ltd.,1956-01-01,53.95089,-113.07819,01-29-057-21W4M
-ABGP0001029,Suspended,* Samson Ferrybank,GP,Ferrybank,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,52.89245,-113.87048,05-21-045-27W4M
-ABGP0001030,Suspended,* Talisman Turner Valley,GP,Turner Valley,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,50.67209,-114.27017,14-06-020-02W5M
+ABGP0001029,Suspended,Samson Ferrybank,GP,Ferrybank,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,52.89245,-113.87048,05-21-045-27W4M
+ABGP0001030,Suspended,Talisman Turner Valley,GP,Turner Valley,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,50.67209,-114.27017,14-06-020-02W5M
 ABGP0001031,Suspended,Valhalla 8-20-76-9W6,GP,Valhalla,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,55.59771,-119.3482,08-20-076-09W6M
-ABGP0001032,Abandoned,* Shell Worsley,GP,Worsley,Shell Canada Limited,100.0% - Shell Canada Limited,,56.55739,-119.02205,07-22-087-07W6M
+ABGP0001032,Abandoned,Shell Worsley,GP,Worsley,Shell Canada Limited,100.0% - Shell Canada Limited,,56.55739,-119.02205,07-22-087-07W6M
 ABGP0001033,Suspended,Crestar Three Hills Ck,GP,Three Hills Creek,Pine Cliff Energy Ltd.,100.0% - Pine Cliff Energy Ltd.,,52.01016,-113.59672,13-13-035-26W4M
 ABGP0001034,Active,Semcams West Whitecourt (Windfall),GP,Windfall,Energy Transfer Canada Ulc,72.8% - Energy Transfer Canada Ulc; 0.1% - Bp Canada Energy Company; 10.4% - Sw Resources Ulc; 16.7% - Sinopec Daylight Energy Ltd.,1959-01-01,54.18694,-116.20467,08-17-060-15W5M
-ABGP0001035,Suspended,* Icg Acheson,GP,Icg Acheson,Cnooc Petroleum North America Ulc,100.0% - Cnooc Petroleum North America Ulc,,53.54311,-113.73491,04-02-053-26W4M
+ABGP0001035,Suspended,Icg Acheson,GP,Icg Acheson,Cnooc Petroleum North America Ulc,100.0% - Cnooc Petroleum North America Ulc,,53.54311,-113.73491,04-02-053-26W4M
 ABGP0001036,Active,Apache Provost,GP,Consort,Karve Energy Inc.,100.0% - Karve Energy Inc.,,52.10473,-110.69847,08-19-036-05W4M
 ABGP0001037,Active,Shell Jumping Pound,GP,Jumping Pound,Pieridae Alberta Production Ltd.,100.0% - Shell Canada Limited,1951-01-01,51.13772,-114.58008,13-13-025-05W5M
 ABGP0001038,Active,Apf Energy Countess,GP,Countess,Journey Energy Inc.,24.1% - Cenovus Fccl Ltd.; 22.7% - Enermark Inc.; 53.3% - Journey Energy Inc.,1960-01-01,50.73756,-112.085,08-36-020-16W4M
 ABGP0001039,Suspended,Vista Midstream Enchant Ggs,GP,Enchant,Campus Energy Partners Operations Inc.,100.0% - Campus Energy Partners Operations Inc.,1963-01-01,50.12981,-112.22533,11-35-013-17W4M
-ABGP0001040,Reclamation Certified,* Can Oxy Okotoks,GP,Can Oxy Okotoks,Cnooc Petroleum North America Ulc,100.0% - Cnooc Petroleum North America Ulc,,50.71951,-113.94883,04-27-020-29W4M
+ABGP0001040,Reclamation Certified,Can Oxy Okotoks,GP,Can Oxy Okotoks,Cnooc Petroleum North America Ulc,100.0% - Cnooc Petroleum North America Ulc,,50.71951,-113.94883,04-27-020-29W4M
 ABGP0001041,Abandoned,Cessford 3-6-24-10W4,GP,Cessford Plant,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.01046,-111.39158,03-06-024-10W4M
 ABGP0001042,Active,Karr 10-10-065-02W6,GP,Karr Creek,Canadian Natural Resources Limited,62.0% - Canadian Natural Resources Limited; 10.0% - Devon Canada; 11.5% - Progress Exploration Ltd.; 3.2% - Enerplus Energy Ltd.; 0.5% - Iteration Energy Ltd.; 12.8% - Signalta Resources Limited,1981-01-01,54.6124,-118.21115,10-10-065-02W6M
 ABGP0001043,Active,Husky Hussar 13-36,GP,Hussar,Torxen Energy Ltd.,25.0% - Husky Oil Operations Limited; 25.0% - Harvard International Resources Ltd.; 50.0% - Torxen Energy Ltd.,1959-01-01,51.0942,-112.81593,13-36-024-21W4M
 ABGP0001044,Active,Husky Wayne-Rosedale 12-4,GP,Wayne,Torxen Energy Ltd.,25.0% - Husky Oil Operations Limited; 25.0% - Harvard International Resources Ltd.; 50.0% - Torxen Energy Ltd.,1981-01-01,51.36697,-112.76773,12-04-028-20W4M
 ABGP0001045,Suspended,Imperial Bonnie Glen,GP,Bonnie Glen Solutions,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.04881,-113.9239,04-17-047-27W4M
-ABGP0001046,Suspended,* Imperial Pembina,GP,Pembina,Whitecap Resources Inc.,100.0% - Whitecap Resources Inc.,,53.25256,-115.39433,01-28-049-10W5M
+ABGP0001046,Suspended,Imperial Pembina,GP,Pembina,Whitecap Resources Inc.,100.0% - Whitecap Resources Inc.,,53.25256,-115.39433,01-28-049-10W5M
 ABGP0001047,Active,Keyera Minnehik-Buck Lake 10-05,GP,Minnehik,Keyera Energy Ltd.,79.8% - Keyera Energy Ltd.; 10.0% - Canlin Resources Partnership; 8.1% - Enerplus Resources Corporation; 1.7% - Taqa North; 0.5% - Sabre Energy Ltd.,1961-01-01,52.94033,-114.83234,10-05-046-06W5M
 ABGP0001048,Active,Altana Black Butte,GP,Black Butte,Pine Cliff Energy Ltd.,100.0% - Pine Cliff Energy Ltd.,1962-01-01,49.03026,-111.05495,01-18-001-08W4M
 ABGP0001049,Active,Pancdn Wayne-Rosedale,GP,Wayne Dalum,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,,51.30522,-112.65054,05-17-027-19W4M
@@ -59,12 +59,12 @@ ABGP0001057,Active,Penn West Pembina,GP,Lobstick Glauconite,Obsidian Energy Ltd.
 ABGP0001058,Active,Trilogy Kaybob,GP,Kaybob,Paramount Resources Ltd.,90.0% - Paramount Resources Ltd.,1962-01-01,54.5216,-116.80216,08-09-064-19W5M
 ABGP0001059,Suspended,Drumheller  6-33-30-19W4,GP,Drumheller,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.61063,-112.6214,06-33-030-19W4M
 ABGP0001060,Active,Solex Harmattan-Elkton,GP,Alta Gas Harmattan,Altagas Ltd.,100.0% - Altagas Ltd.,1960-01-01,51.68774,-114.47718,09-27-031-04W5M
-ABGP0001061,Suspended,* Gulf Gilby,GP,Gilby,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,52.53958,-114.29278,01-24-041-03W5M
+ABGP0001061,Suspended,Gulf Gilby,GP,Gilby,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,52.53958,-114.29278,01-24-041-03W5M
 ABGP0001062,Active,Accel Energy Carson Creek Gp,GP,Carson Creek,Accel Canada Holdings Limited,95.0% - Accel Canada Holdings Limited; 5.0% - Journey Energy Inc.,1960-01-01,54.28503,-115.69813,04-23-061-12W5M
 ABGP0001063,Active,Apache Canada Provost,GP,Kessler,Battle River Energy Ltd.,98.0% - Battle River Energy Ltd.,,52.33036,-111.12946,13-05-039-08W4M
-ABGP0001064,Suspended,* Petro-Can Gilby,GP,Gilby,Canlin Resources Partnership,100.0% - Canlin Resources Partnership,,52.47043,-114.34679,07-27-040-03W5M
+ABGP0001064,Suspended,Petro-Can Gilby,GP,Gilby,Canlin Resources Partnership,100.0% - Canlin Resources Partnership,,52.47043,-114.34679,07-27-040-03W5M
 ABGP0001065,Suspended,Vista Midstream Retlaw,GP,Retlaw,Campus Energy Partners Operations Inc.,83.5% - Campus Energy Partners Operations Inc.; 16.5% - Enermark Inc.,1963-01-01,50.05708,-112.50397,12-02-013-19W4M
-ABGP0001066,Suspended,* Poco Kirkwall,GP,Poco Kirkwall,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,51.33068,-110.66429,01-29-027-05W4M
+ABGP0001066,Suspended,Poco Kirkwall,GP,Poco Kirkwall,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,51.33068,-110.66429,01-29-027-05W4M
 ABGP0001067,Suspended,Renaissance Sylvan Lake-21,GP,Sylvan Lake,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,52.27729,-114.21904,01-21-038-02W5M
 ABGP0001068,Active,Westlock 07-15-060-02W5,GP,Westlock West,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.18683,-114.21129,07-15-060-02W5M
 ABGP0001069,Active,Cfr Jc 15-25-64-11W5 Gp,GP,Judy Creek Conservation Plant,Conifer Energy Inc.,51.0% - Conifer Energy Inc.; 24.5% - Obsidian Energy Ltd.; 24.5% - Canadian Natural Resources Limited,1960-01-01,54.57231,-115.52295,15-25-064-11W5M
@@ -75,7 +75,7 @@ ABGP0001073,Suspended,Altaquest Gilby,GP,Gilby,Cequel Energy Inc.,100.0% - Manit
 ABGP0001074,Suspended,Imperial Bonnie Glen,GP,Bonnie Glen Cycle,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.04881,-113.91788,03-17-047-27W4M
 ABGP0001075,Active,Vermilion Carrot Creek,GP,Granada,Vermilion Energy Inc.,52.0% - Vermilion Energy Inc.; 48.0% - Obsidian Energy Ltd.,1972-01-01,53.48488,-115.60766,02-18-052-11W5M
 ABGP0001076,Active,Pancdn Wayne-Rosedale,GP,Redlands High Pressure,Lynx Energy Ulc,100.0% - Lynx Energy Ulc,,51.40332,-112.91469,01-20-028-21W4M
-ABGP0001077,Suspended,* Amoco Gilby South,GP,Amoco Gilby South,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,52.47053,-114.31681,08-26-040-03W5M
+ABGP0001077,Suspended,Amoco Gilby South,GP,Amoco Gilby South,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,52.47053,-114.31681,08-26-040-03W5M
 ABGP0001078,Suspended,Handhills 10-33-28-15W4,GP,Handhills Coyote,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.43971,-112.05319,10-33-028-15W4M
 ABGP0001079,Active,Primewest Crossfield East,GP,Crossfield East,Taqa North Ltd.,55.0% - Taqa North Ltd.,1967-01-01,51.39652,-114.02818,09-14-028-01W5M
 ABGP0001080,Active,Calcrude Cherhill,GP,Cherhill,Journey Energy Inc.,90.0% - Journey Energy Inc.; 10.0% - Ridgmar Canada Inc.,1972-01-01,53.84799,-114.61854,04-24-056-05W5M
@@ -85,22 +85,22 @@ ABGP0001083,Suspended,Bonavista Harmattan-Elkton Plant,GP,Harmattan Elkton South
 ABGP0001084,Active,Edson 04-11-053-18W5 Gp,GP,Edson,Repsol Oil & Gas Canada Inc.,0.0% - Chair Resources Inc.; 0.0% - Conocophillips Canada Resources Corp.; 0.0% - Crocotta Energy Inc.; 0.0% - Conocophillips Canada (Brc) Ltd.; 0.0% - Daylight Energy Ltd.; 0.0% - Enerplus Oil & Gas Ltd.; 0.0% - Enermark Inc.; 59.0% - Repsol Oil & Gas Canada Inc.; 22.0% - Keyera Energy Ltd.,1965-01-01,53.55751,-116.55334,04-11-053-18W5M
 ABGP0001085,Active,Penn West Tomahawk 04-02 Gp,GP,Berrymoor,Obsidian Energy Ltd.,2.9% - Signalta Resources Limited; 6.2% - Canetic Resources Inc.; 90.9% - Obsidian Energy Ltd.,,53.28161,-114.77261,03-02-050-06W5M
 ABGP0001086,Active,Tamarack Veteran 15-20-034-08W4 Gp,GP,Veteran,Tamarack Acquisition Corp.,100.0% - Tamarack Acquisition Corp.,,51.93817,-111.10061,15-20-034-08W4M
-ABGP0001087,Suspended,* Crestar Oyen,GP,Crestar Oyen,Conocophillips Canada Energy Partnership,100.0% - Conocophillips Canada Energy Partnership,,51.44334,-110.58213,14-36-028-05W4M
+ABGP0001087,Suspended,Crestar Oyen,GP,Crestar Oyen,Conocophillips Canada Energy Partnership,100.0% - Conocophillips Canada Energy Partnership,,51.44334,-110.58213,14-36-028-05W4M
 ABGP0001088,Active,Bonterra 05-35 Sweet Gas Plant,GP,Keystone,Bonterra Energy Corp.,100.0% - Bonterra Energy Corp.,1965-01-01,53.18327,-114.48599,05-35-048-04W5M
 ABGP0001089,Active,Paddle River 13-06-057-8W5 Gas Plant,GP,Paddle River,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,1966-01-01,53.90244,-115.18864,13-06-057-08W5M
-ABGP0001090,Suspended,* Mobil Harmattan-Elkton,GP,Harmattan-Elkton,Exxonmobil Canada Energy,100.0% - Exxonmobil Canada Ltd.,,51.68773,-114.48301,10-27-031-04W5M
+ABGP0001090,Suspended,Mobil Harmattan-Elkton,GP,Harmattan-Elkton,Exxonmobil Canada Energy,100.0% - Exxonmobil Canada Ltd.,,51.68773,-114.48301,10-27-031-04W5M
 ABGP0001091,Active,Pancdn Wintering Hills,GP,Wintering Hills,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,,51.12702,-112.35696,01-18-025-17W4M
-ABGP0001092,Suspended,* Steen Crossfield,GP,Steen Crossfield,Steen Resources Ltd.,100.0% - Steen Resources Ltd.,,51.58207,-114.3797,08-20-030-03W5M
+ABGP0001092,Suspended,Steen Crossfield,GP,Steen Crossfield,Steen Resources Ltd.,100.0% - Steen Resources Ltd.,,51.58207,-114.3797,08-20-030-03W5M
 ABGP0001093,Active,Ferrier 09-22-39-8W5,GP,Ferrier 1,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.37213,-115.06014,09-22-039-08W5M
-ABGP0001094,Suspended,* Amoco Lone Pine Creek,GP,Lone Pine Creek,Bp Canada Energy Group Ulc,100.0% - Taqa North Ltd.,,51.58139,-113.84049,06-23-030-28W4M
+ABGP0001094,Suspended,Amoco Lone Pine Creek,GP,Lone Pine Creek,Bp Canada Energy Group Ulc,100.0% - Taqa North Ltd.,,51.58139,-113.84049,06-23-030-28W4M
 ABGP0001095,Active,Cdn 88 Twining,GP,Three Hills Creek,Artis Exploration Ltd.,100.0% - Artis Exploration Ltd.,,51.69442,-113.21466,04-33-031-23W4M
 ABGP0001096,Active,Petro-Can Wilson Creek,GP,Wilson Creek,Tamarack Acquisition Corp.,52.2% - Tamarack Acquisition Corp.; 47.8% - Taqa North Ltd.,1968-01-01,52.72934,-114.53641,01-29-043-04W5M
 ABGP0001097,Active,Conoco Ghost Pine,GP,Ghost Pine,Pine Cliff Energy Ltd.,100.0% - Pine Cliff Energy Ltd.,1967-01-01,51.63969,-112.86634,08-11-031-21W4M
 ABGP0001098,Suspended,Crestar Gilby N,GP,Crestar Gilby N,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,52.51771,-114.44843,11-12-041-04W5M
-ABGP0001099,Suspended,* Altana Caroline,GP,Altana Caroline,Altana Exploration Company,100.0% - Altana Exploration Company,,51.96412,-114.73085,12-36-034-06W5M
+ABGP0001099,Suspended,Altana Caroline,GP,Altana Caroline,Altana Exploration Company,100.0% - Altana Exploration Company,,51.96412,-114.73085,12-36-034-06W5M
 ABGP0001100,Suspended,Vulcan 8-24-15-22W4,GP,Vulcan,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,50.27185,-112.8941,08-24-015-22W4M
 ABGP0001101,Abandoned,Amoco Bigstone,GP,Bigstone,Bp Canada Energy Group Ulc,100.0% - Paramount Resources Ltd.,,54.2595,-117.21683,06-10-061-22W5M
-ABGP0001102,Suspended,* Amoco Crossfield,GP,Crossfield,Bp Canada Energy Group Ulc,100.0% - Taqa North Ltd.,,51.39652,-114.02818,09-14-028-01W5M
+ABGP0001102,Suspended,Amoco Crossfield,GP,Crossfield,Bp Canada Energy Group Ulc,100.0% - Taqa North Ltd.,,51.39652,-114.02818,09-14-028-01W5M
 ABGP0001103,Active,Encal Sylvan Lk,GP,Sylvan Lake,Harvest Operations Corp.,100.0% - Harvest Operations Corp.,1980-01-01,52.25535,-114.2963,10-12-038-03W5M
 ABGP0001104,Suspended,Amoco South Caroline,GP,Caroline South,Bp Canada Energy Group Ulc,100.0% - Bonavista Energy Corporation,,51.92784,-114.53595,03-20-034-04W5M
 ABGP0001105,Active,Husky Rainbow 10-10,GP,Rainbow,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,1967-01-01,58.45072,-119.23832,10-10-109-08W6M
@@ -118,15 +118,15 @@ ABGP0001116,Active,Apache Provost,GP,Brownfield,Karve Energy Inc.,96.1% - Karve 
 ABGP0001117,Active,Devon Marten Hills,GP,Marten Hills Plant 1,Sequoia Resources Corp.,100.0% - Sequoia Resources Corp.,1969-01-01,55.42993,-113.61225,14-22-074-24W4M
 ABGP0001118,Active,Amoco East Garrington,GP,Garrington East,Bonavista Energy Corporation,100.0% - Bonavista Energy Corporation,1975-01-01,51.92067,-114.39439,11-17-034-03W5M
 ABGP0001119,Active,Willow 02-05-028-17W4,GP,Drumheller East,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1974-01-01,51.35983,-112.35782,02-05-028-17W4M
-ABGP0001120,Suspended,* Amoco Kaybob S #2,GP,Kaybob South 1 Cycling,Bp Canada Energy Group Ulc,100.0% - Energy Transfer Canada Ulc,,54.34316,-116.85462,01-12-062-20W5M
+ABGP0001120,Suspended,Amoco Kaybob S #2,GP,Kaybob South 1 Cycling,Bp Canada Energy Group Ulc,100.0% - Energy Transfer Canada Ulc,,54.34316,-116.85462,01-12-062-20W5M
 ABGP0001121,Active,Keyera Nordegg River 6-10-044-12W5,GP,Nordegg River,Keyera Energy Ltd.,89.3% - Keyera Energy Ltd.,1969-01-01,52.77611,-115.66063,06-10-044-12W5M
 ABGP0001122,Active,Petro-Can Ferrier,GP,Ferrier,Canlin Resources Partnership,,1970-01-01,52.49599,-114.98817,01-06-041-07W5M
 ABGP0001123,Active,Chevron Mitsue,GP,Mitsue,Cardinal Energy Ltd.,13.0% - Canadian Natural Resources Limited; 85.0% - Cardinal Energy Ltd.,1969-01-01,55.26683,-114.60134,10-30-072-04W5M
 ABGP0001124,Abandoned,Bittern Lk 5-31-45-20W4,GP,Bittern Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.92156,-112.90355,05-31-045-20W4M
 ABGP0001125,Active,Waskahigan 15-7-064-23W5,GP,Waskahigan,Canadian Natural Resources Limited,94.2% - Canadian Natural Resources Limited,,54.5287,-117.46433,15-07-064-23W5M
-ABGP0001126,Abandoned,* Jordan Provost,GP,Jordan Provost,Enerplus Corporation,100.0% - Taqa North Ltd.,,52.30141,-112.07934,16-28-038-15W4M
+ABGP0001126,Abandoned,Jordan Provost,GP,Jordan Provost,Enerplus Corporation,100.0% - Taqa North Ltd.,,52.30141,-112.07934,16-28-038-15W4M
 ABGP0001127,Active,Greencourt 09-26-059-09W5,GP,Greencourt,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1969-01-01,54.13232,-115.22978,09-26-059-09W5M
-ABGP0001128,Suspended,* Gulf Swallwell,GP,Swallwell,Gulf Canada Limited,100.0% - Gulf Canada Limited,,51.52337,-113.32475,06-33-029-24W4M
+ABGP0001128,Suspended,Gulf Swallwell,GP,Swallwell,Gulf Canada Limited,100.0% - Gulf Canada Limited,,51.52337,-113.32475,06-33-029-24W4M
 ABGP0001129,Active,Gold Creek 13-26-067-05W6,GP,Gold Creek,Canadian Natural Resources Limited,17.0% - Progress Energy Ltd.; 0.8% - Chinook Energy Ltd.; 82.2% - Canadian Natural Resources Limited,1969-01-01,54.83426,-118.658,13-26-067-05W6M
 ABGP0001130,Active,Petro-Can Gilby,GP,Gilby,Canlin Resources Partnership,,1970-01-01,52.46681,-114.3468,02-27-040-03W5M
 ABGP0001131,Suspended,Shell Burnt Timber,GP,Burnt Timber,Shell Canada Energy,100.0% - Shell Canada Limited,1972-01-01,51.57117,-114.85391,10-13-030-07W5M
@@ -142,7 +142,7 @@ ABGP0001140,Active,Baytex Ferrybank Plant,GP,Ferrybank,Baytex Energy Ltd.,100.0%
 ABGP0001141,Active,Ram River 04-02-037-10W5,GP,Ram River,Tidewater Midstream And Infrastructure Ltd.,85.0% - Tidewater Midstream And Infrastructure Ltd.; 2.1% - Enerplus Resources Corporation; 3.0% - C Group Energy Inc.; 9.8% - Paramount Resources (Acl) Ltd.,1972-01-01,52.14626,-115.33134,04-02-037-10W5M
 ABGP0001143,Active,Psec Leafland 13-16 Gp,GP,Leafland,Prairie Storm Energy Corp.,75.9% - Prairie Storm Energy Corp.,1971-01-01,52.44863,-114.67028,13-16-040-05W5M
 ABGP0001144,Active,Semcams Kaybob South #3,GP,Kaybob South 3,Energy Transfer Canada Ulc,85.0% - Energy Transfer Canada Ulc; 10.2% - Exxonmobil Canada Energy; 0.1% - Hamilton Brothers Canadian Gas Company Ltd.; 0.1% - Bp Canada Energy Company; 0.1% - Devon Canada Corporation; 0.1% - Conocophillips Canada Limited; 0.1% - Suncor Energy Inc.; 4.2% - Burlington Resources Canada Ltd.; 0.1% - Paramount Resources (Acl) Ltd.,1972-01-01,54.09609,-116.61698,03-15-059-18W5M
-ABGP0001145,Suspended,* Imperial Rainbow,GP,Rainbow,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,58.56702,-119.05673,12-23-110-07W6M
+ABGP0001145,Suspended,Imperial Rainbow,GP,Rainbow,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,58.56702,-119.05673,12-23-110-07W6M
 ABGP0001147,Active,Veresen Hythe 11-18-074-12W6 Gp,GP,Hythe,Veresen Midstream General Partner Inc.,100.0% - Veresen Midstream General Partner Inc.,1981-01-01,55.41237,-119.83645,11-18-074-12W6M
 ABGP0001148,Suspended,Saxon Bigoray,GP,Bigoray,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,53.4197,-115.09146,10-22-051-08W5M
 ABGP0001149,Active,00/06-15-048-03W5 Pembina Gp,GP,Warburg Keystone,Sinopec Daylight Energy Ltd.,100.0% - Sinopec Daylight Energy Ltd.,,53.13964,-114.35814,06-15-048-03W5M
@@ -150,15 +150,15 @@ ABGP0001150,Active,Crestar Little Bow,GP,Little Bow,Zargon Oil & Gas Ltd.,100.0%
 ABGP0001151,Suspended,Renaissance Hussar 2-1,GP,Rosebud,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,,51.27248,-112.82641,02-01-027-21W4M
 ABGP0001152,Suspended,Encal Simonette,GP,Simonette,Spoke Resources Ltd.,100.0% - Spoke Resources Ltd.,,54.42332,-117.76062,09-06-063-25W5M
 ABGP0001153,Active,Ferrybank 02-01 Gas Plant,GP,Ferrybank,Bonavista Energy Corporation,52.0% - Bonavista Energy Corporation; 48.0% - Nal Resources Limited,1977-01-01,52.75804,-113.93103,02-01-044-28W4M
-ABGP0001154,Suspended,* Encal Sylvan Lake,GP,Sylvan Lake,Taqa North Ltd.,100.0% - Taqa North Ltd.,,52.24095,-114.20113,10-03-038-02W5M
+ABGP0001154,Suspended,Encal Sylvan Lake,GP,Sylvan Lake,Taqa North Ltd.,100.0% - Taqa North Ltd.,,52.24095,-114.20113,10-03-038-02W5M
 ABGP0001155,Abandoned,Mobil Rainbow,GP,Rainbow Lake Battery 10,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,1969-01-01,58.53795,-118.90359,10-10-110-06W6M
 ABGP0001156,Suspended,Petro-Can Medicine River,GP,Gilby,Obsidian Energy Ltd.,26.0% - Obsidian Energy Ltd.; 26.0% - Certus Oil And Gas Inc.; 23.6% - Keyera Energy Ltd.; 7.2% - Taqa North,1972-01-01,52.41211,-114.40632,05-05-040-03W5M
 ABGP0001157,Suspended,Penn West Woking,GP,Penn West Woking,Kelt Exploration Ltd.,100.0% - Kelt Exploration Ltd.,,55.52872,-118.61131,11-30-075-04W6M
 ABGP0001158,Active,Pennwest Pembina (Sub #1),GP,Pembina Pembalta Stn 1,Arc Resources Ltd.,82.8% - Arc Resources Ltd.; 10.1% - Bonterra Energy Corp.; 5.0% - Obsidian Energy Ltd.; 0.1% - Blaze Energy Ltd.,1958-01-01,53.17242,-114.88244,09-25-048-07W5M
 ABGP0001159,Active,Bonterra 10-15 Sweet Gas Plant Stn 2,GP,Rose Creek Pembalta Stn 2,Bonterra Energy Corp.,28.1% - Obsidian Energy Ltd.; 38.9% - Bonterra Energy Corp.; 25.7% - Enerplus Corporation; 5.5% - Arc Resources Ltd.; 1.4% - Husky Oil Operations Limited; 0.5% - Freehold Resources Ltd.,1957-01-01,53.05605,-114.93738,10-15-047-07W5M
-ABGP0001160,Suspended,* Mobil Pembina,GP,Pembina,Arc Resources Ltd.,100.0% - Arc Resources Ltd.,,53.23068,-115.10174,09-16-049-08W5M
+ABGP0001160,Suspended,Mobil Pembina,GP,Pembina,Arc Resources Ltd.,100.0% - Arc Resources Ltd.,,53.23068,-115.10174,09-16-049-08W5M
 ABGP0001161,Active,Mobil Pembina,GP,Pembalta 4,Arc Resources Ltd.,10.0% - Obsidian Energy Ltd.; 88.3% - Arc Resources Ltd.; 0.9% - Bonterra Energy Corp.; 0.8% - Blaze Energy Ltd.,1957-01-01,53.23068,-115.10174,09-16-049-08W5M
-ABGP0001162,Reclamation Exempt,* Amoco Pemb (Sub #5),GP,Pemb Sub 5,Bp Canada Energy Group Ulc,100.0% - Arc Resources Ltd.,,53.11063,-115.0591,07-02-048-08W5M
+ABGP0001162,Reclamation Exempt,Amoco Pemb (Sub #5),GP,Pemb Sub 5,Bp Canada Energy Group Ulc,100.0% - Arc Resources Ltd.,,53.11063,-115.0591,07-02-048-08W5M
 ABGP0001163,Suspended,Spectra Gordondale West Gas Plant,GP,Gordondale West,Northriver Midstream Inc.,100.0% - Northriver Midstream Inc.,1981-01-01,55.8634,-119.58265,11-24-079-11W6M
 ABGP0001164,Active,Amoco Pembina (Sub #7),GP,Pembina Pembalta Stn 7,Obsidian Energy Ltd.,0.7% - Taqa North Ltd.; 5.1% - Freehold Resources Ltd.; 83.5% - Obsidian Energy Ltd.; 4.5% - Bonterra Energy Corp.; 6.2% - Arc Resources Ltd.,1958-01-01,53.09238,-115.24178,04-34-047-09W5M
 ABGP0001165,Active,Amoco Pembina (Sub #8),GP,Pembina Pembalta Stn 8,Obsidian Energy Ltd.,80.0% - Obsidian Energy Ltd.; 15.0% - Bonterra Energy Corp.,,53.19793,-115.29048,05-05-049-09W5M
@@ -166,7 +166,7 @@ ABGP0001166,Abandoned,Atco Midstream 4-20,GP,Cranberry,Atco Energy Solutions Ltd
 ABGP0001167,Active,Crestar Huxley,GP,Huxley South,Pine Cliff Energy Ltd.,100.0% - Pine Cliff Energy Ltd.,1997-01-01,51.91662,-113.37392,06-17-034-24W4M
 ABGP0001168,Active,Heathdale 7-9-30-11W4 Stanmore,GP,Stanmore,Canadian Natural Resources Limited,75.0% - Canadian Natural Resources Limited; 20.0% - Pengrowth Energy Corporation,,51.55253,-111.49048,07-09-030-11W4M
 ABGP0001169,Active,Dunvegan 15-3-81-4W6,GP,Dunvegan,Canadian Natural Resources Limited,78.3% - Canadian Natural Resources Limited; 5.1% - Arc Resources Ltd.; 3.9% - Chair Resources Inc.; 1.0% - Signalta Resources Limited; 4.3% - Taqa North Ltd.; 0.9% - 119307 Alberta Corporation; 0.5% - 389592 Alberta Ltd.; 0.6% - Ardee Resources Ltd.; 0.7% - Cumulus Investments Ltd.; 1.6% - Prairie Birch Royalties Ltd.; 3.2% - W. F. Brown Exploration Ltd,1972-01-01,55.99805,-118.5323,15-03-081-04W6M
-ABGP0001170,Abandoned,* Nal Resources Joffre,GP,Resources Joffre,Whitecap Resources Inc.,100.0% - Del Canada Gp Ltd.,,52.35915,-113.7082,15-17-039-26W4M
+ABGP0001170,Abandoned,Nal Resources Joffre,GP,Resources Joffre,Whitecap Resources Inc.,100.0% - Del Canada Gp Ltd.,,52.35915,-113.7082,15-17-039-26W4M
 ABGP0001171,Suspended,Michichi 4-8-31-18W4,GP,East Michichi,Canadian Natural Resources Limited,74.9% - Canadian Natural Resources Limited; 1.2% - Encana Corporation; 9.8% - Signalta Resources Limited; 8.4% - Sonde Resources Corp.; 4.7% - Centrica Canada Limited; 1.1% - Celtic Exploration Ulc,1982-01-01,51.63617,-112.52959,04-08-031-18W4M
 ABGP0001172,Active,Star Mikwan,GP,Arc Mikwan,Sun Century Petroleum Corporation,18.6% - Cansearch Resources Ltd.; 5.4% - Signalta Resources Limited; 3.6% - Conocophillips Canada Resources Corp.; 1.5% - Advantage Energy Ltd.; 9.1% - Pengrowth Energy Corporation; 54.0% - Sun Century Petroleum Corporation,1971-01-01,52.16661,-113.25196,10-08-037-23W4M
 ABGP0001173,Active,Keyera Ricinus Gas Plant 11-30,GP,Ricinus,Keyera Energy Ltd.,70.8% - Keyera Energy Ltd.; 28.7% - Taqa North Ltd.; 0.5% - Cenovus Energy Inc.,1967-01-01,52.03712,-115.13507,11-30-035-08W5M
@@ -179,14 +179,14 @@ ABGP0001179,Abandoned,Strome 13-14-44-17W4,GP,Holmberg,Canadian Natural Resource
 ABGP0001180,Suspended,Bonavista Oyen,GP,Oyen,Nuvista Energy Ltd.,100.0% - Nuvista Energy Ltd.,,51.51619,-110.45338,16-26-029-04W4M
 ABGP0001181,Active,Cdn Forest Penhold,GP,Penhold,Taqa North Ltd.,100.0% - Taqa North Ltd.,1973-01-01,52.123,-113.8467,10-30-036-27W4M
 ABGP0001182,Suspended,Hanna 08-25-031-14W4,GP,Hanna,Canadian Natural Resources Limited,0.0% - Arc Resources Ltd.; 0.0% - Cansearch Resources Ltd.; 0.0% - Pengrowth Corporation; 0.0% - Great Plains Exploration Inc.; 0.0% - Signalta Resources Limited; 0.0% - Advantage Energy Ltd.; 63.0% - Canadian Natural Resources Limited,,51.68357,-111.85078,08-25-031-14W4M
-ABGP0001183,Suspended,* Sceptre Matziwin,GP,Matziwin,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1975-01-01,50.94141,-111.8802,06-10-023-14W4M
+ABGP0001183,Suspended,Sceptre Matziwin,GP,Matziwin,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1975-01-01,50.94141,-111.8802,06-10-023-14W4M
 ABGP0001184,Active,Knopcik 9-10-74-11W6,GP,Knopcik,Canadian Natural Resources Limited,43.0% - Canadian Natural Resources Limited; 20.0% - Taqa North Ltd.; 10.0% - Repsol Oil & Gas Canada Inc.; 3.0% - Obsidian Energy Ltd.,,55.39775,-119.59308,09-10-074-11W6M
 ABGP0001185,Active,Marathon Battle Cr Twining,GP,Twining Line 54,Ember Resources Inc.,25.0% - Bumper Development Corporation Ltd.; 75.0% - Ember Resources Inc.,1975-01-01,51.64337,-113.33256,12-10-031-24W4M
 ABGP0001186,Suspended,Star Sylvan Lake,GP,Sylvan Lake,I3 Energy Canada Ltd.,100.0% - I3 Energy Canada Ltd.,1970-01-01,52.28815,-114.12402,16-19-038-01W5M
 ABGP0001187,Abandoned,Bonavista Sibbald,GP,Sibbald,Nuvista Energy Ltd.,100.0% - Nuvista Energy Ltd.,,51.3598,-110.35358,04-03-028-03W4M
-ABGP0001188,Suspended,* Norcen Corbett,GP,Norcen Corbett,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.31031,-115.09841,13-26-061-08W5M
+ABGP0001188,Suspended,Norcen Corbett,GP,Norcen Corbett,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.31031,-115.09841,13-26-061-08W5M
 ABGP0001189,Suspended,Storm Sylvan Lake,GP,Sylvan Lake,Whitecap Resources Inc.,100.0% - Whitecap Resources Inc.,1974-01-01,52.2154,-114.30807,13-25-037-03W5M
-ABGP0001190,Suspended,* Talisman Pembina,GP,Pembina,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.09232,-114.46171,04-36-047-04W5M
+ABGP0001190,Suspended,Talisman Pembina,GP,Pembina,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.09232,-114.46171,04-36-047-04W5M
 ABGP0001191,Active,Vista Midstream Turin,GP,Turin,Campus Energy Partners Operations Inc.,26.7% - Graly Resources Ltd.; 72.3% - Campus Energy Partners Operations Inc.,1974-01-01,50.0133,-112.45846,12-19-012-18W4M
 ABGP0001192,Active,Swan Hills,GP,House Mountain,Cardinal Energy Ltd.,100.0% - Cardinal Energy Ltd.,1974-01-01,55.04142,-115.47913,01-08-070-10W5M
 ABGP0001193,Suspended,Penn West Killam,GP,Hardisty,Cleo Energy Corp.,100.0% - Cleo Energy Corp.,,52.6958,-111.19817,15-11-043-09W4M
@@ -195,19 +195,19 @@ ABGP0001195,Abandoned,Lario Cessford,GP,Carolside,Husky Oil Operations Limited,5
 ABGP0001196,Suspended,Nul Fairydell-Bon Accord,GP,Fairydell Bon Accord,Atco Pipelines (North Tn8263923),100.0% - Atco Gas And Pipelines Ltd.,1981-01-01,53.85993,-113.38152,15-20-056-23W4M
 ABGP0001197,Suspended,Nce Petrofund Provost,GP,Grays Lake,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,1976-01-01,51.8255,-110.94687,04-16-033-07W4M
 ABGP0001198,Abandoned,Merit Long Coulee,GP,Merit Long Coulee,Sanling Energy Ltd.,100.0% - Sanling Energy Ltd.,,50.2865,-112.88254,06-30-015-21W4M
-ABGP0001199,Suspended,* Norcen Whitecourt,GP,Norcen Whitecourt,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.15418,-115.50467,01-01-060-11W5M
-ABGP0001200,Suspended,* Amoco Braeburn,GP,Braeburn,Bp Canada Energy Group Ulc,100.0% - Canadian Natural Resources Limited,,55.69219,-119.52917,16-19-077-10W6M
+ABGP0001199,Suspended,Norcen Whitecourt,GP,Norcen Whitecourt,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.15418,-115.50467,01-01-060-11W5M
+ABGP0001200,Suspended,Amoco Braeburn,GP,Braeburn,Bp Canada Energy Group Ulc,100.0% - Canadian Natural Resources Limited,,55.69219,-119.52917,16-19-077-10W6M
 ABGP0001201,Active,Aec Mcleod,GP,Mcleod River,Notine Holdings Inc.,100.0% - Notine Holdings Inc.,1980-01-01,53.7066,-115.97623,07-34-054-14W5M
 ABGP0001202,Suspended,Kelt Boundary Lake South,GP,Neptune,Kelt Exploration Ltd.,100.0% - Kelt Exploration Ltd.,,56.46277,-119.90889,15-13-086-13W6M
 ABGP0001203,Suspended,Hackett 11-20-35-17W4,GP,Gough Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1975-01-01,52.02104,-112.40072,11-20-035-17W4M
 ABGP0001204,Suspended,Altagas Killam,GP,Killam,Altagas Ltd.,100.0% - Altagas Ltd.,,52.61062,-111.83128,01-17-042-13W4M
-ABGP0001205,Suspended,* Landbank Alix,GP,Landbank Alix,Landbank Minerals Ltd,100.0% - Landbank Minerals Ltd,,52.3705,-113.2826,11-20-039-23W4M
+ABGP0001205,Suspended,Landbank Alix,GP,Landbank Alix,Landbank Minerals Ltd,100.0% - Landbank Minerals Ltd,,52.3705,-113.2826,11-20-039-23W4M
 ABGP0001206,Suspended,Suncor Rosevear,GP,Suncor Rosevear,Bonavista Energy Corporation,100.0% - Bonavista Energy Corporation,,53.71379,-116.14234,16-33-054-15W5M
 ABGP0001207,Suspended,Beau Gilby,GP,Gilby,Murphy Oil Company Ltd.,100.0% - Journey Energy Inc.,,52.45596,-114.23266,06-21-040-02W5M
-ABGP0001209,Suspended,* Lochfayne Carstairs,GP,Lochfayne Carstairs,Two Forty Engineering Ltd.,100.0% - Two Forty Engineering Ltd.,,51.56743,-114.15116,07-13-030-02W5M
+ABGP0001209,Suspended,Lochfayne Carstairs,GP,Lochfayne Carstairs,Two Forty Engineering Ltd.,100.0% - Two Forty Engineering Ltd.,,51.56743,-114.15116,07-13-030-02W5M
 ABGP0001210,Suspended,Devon Wimborne,GP,Wimborne North,Vantage Point Resources Inc.,100.0% - Vantage Point Resources Inc.,,51.98117,-113.67433,16-05-035-26W4M
 ABGP0001211,Active,Archer Killam,GP,Killam,Sequoia Resources Corp.,98.0% - Sequoia Resources Corp.,,52.7215,-111.50038,12-23-043-11W4M
-ABGP0001212,Suspended,* Lindstrom Samson,GP,Lindstrom Samson,Lindstrom Resources Limited,100.0% - Lindstrom Resources Limited,,52.77969,-113.42949,11-09-044-24W4M
+ABGP0001212,Suspended,Lindstrom Samson,GP,Lindstrom Samson,Lindstrom Resources Limited,100.0% - Lindstrom Resources Limited,,52.77969,-113.42949,11-09-044-24W4M
 ABGP0001213,Suspended,Garden Plains 5-15-33-13 Gp,GP,Garden Plains,Baytex Energy Ltd.,50.0% - Baytex Energy Ltd.; 50.0% - Canadian Natural Resources Limited,,51.82908,-111.77379,05-15-033-13W4M
 ABGP0001214,Active,Poco Pembina,GP,Sunnybrook North,Petrus Resources Corp.,100.0% - Petrus Resources Corp.,1976-01-01,53.16136,-114.20602,15-22-048-02W5M
 ABGP0001215,Active,Manitok Carseland 16-21 Gas Plant,GP,Carseland,Persist Oil And Gas Inc.,100.0% - Persist Oil And Gas Inc.,1982-01-01,50.89069,-113.40116,16-21-022-25W4M
@@ -218,7 +218,7 @@ ABGP0001219,Suspended,Apache Zama,GP,Zama A,Paramount Resources Ltd.,100.0% - Pa
 ABGP0001220,Active,Apache Nevis,GP,Nevis,Ember Resources Inc.,100.0% - Ember Resources Inc.,,52.51573,-113.16851,12-07-041-22W4M
 ABGP0001221,Active,Stettler 06-19-039-19W4 Gas Plant,GP,Leahurst,Baytex Energy Ltd.,75.0% - Baytex Energy Ltd.; 25.0% - Ember Resources Inc.,1996-01-01,52.36677,-112.73067,06-19-039-19W4M
 ABGP0001222,Active,Cutbank 7-16-62-8W6,GP,Cutbank,Pembina Gas Services Ltd.,100.0% - Pembina Gas Services Ltd.,1982-01-01,54.36141,-119.1342,07-16-062-08W6M
-ABGP0001223,Suspended,* Jaycor Hercules,GP,Jaycor Hercules,Jaycor Resources Inc.,100.0% - Jaycor Resources Inc.,2007-01-01,53.44483,-113.3106,06-34-051-23W4M
+ABGP0001223,Suspended,Jaycor Hercules,GP,Jaycor Hercules,Jaycor Resources Inc.,100.0% - Jaycor Resources Inc.,2007-01-01,53.44483,-113.3106,06-34-051-23W4M
 ABGP0001224,Suspended,Crestar Med River,GP,Medicine River,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,1974-01-01,52.26633,-114.51635,06-16-038-04W5M
 ABGP0001225,Active,Tri Seven Judy Creek,GP,Judy Creek,Crescent Point Energy Corp.,55.0% - Second Wave Petroleum Inc.; 45.0% - Crescent Point Energy Corp.,,54.46315,-115.36558,08-24-063-10W5M
 ABGP0001226,Active,Husky Davey Lake 13-35,GP,Davey Lake,Vantage Point Resources Inc.,100.0% - Vantage Point Resources Inc.,1974-01-01,51.96344,-113.72821,11-35-034-27W4M
@@ -230,13 +230,13 @@ ABGP0001231,Active,Apache Garrington,GP,Garrington,Bonavista Energy Corporation,
 ABGP0001232,Suspended,Apache Provost,GP,Choice,Karve Energy Inc.,94.0% - Battle River Energy Ltd.,,52.44676,-111.27331,13-17-040-09W4M
 ABGP0001233,Active,Twining N 6-31-32-24W4,GP,Twining North Dup Line 44,Pine Cliff Energy Ltd.,100.0% - Pine Cliff Energy Ltd.,1972-01-01,51.78536,-113.39758,06-31-032-24W4M
 ABGP0001234,Suspended,Bonavista Sedalia,GP,Sedalia,Bonavista Energy Corporation,100.0% - Nuvista Energy Ltd.,,51.56351,-110.57053,01-13-030-05W4M
-ABGP0001235,Suspended,* Enron Swalwell,GP,Enron Swalwell,Canadian Natural Resources Limited,100.0% - Ember Resources Inc.,,51.53056,-113.27785,14-35-029-24W4M
-ABGP0001236,Suspended,* Bumper Carbon,GP,Bumper Carbon,Bumper Development Corporation Ltd.,100.0% - Lynx Energy Ulc,,51.45066,-113.16062,06-03-029-23W4M
+ABGP0001235,Suspended,Enron Swalwell,GP,Enron Swalwell,Canadian Natural Resources Limited,100.0% - Ember Resources Inc.,,51.53056,-113.27785,14-35-029-24W4M
+ABGP0001236,Suspended,Bumper Carbon,GP,Bumper Carbon,Bumper Development Corporation Ltd.,100.0% - Lynx Energy Ulc,,51.45066,-113.16062,06-03-029-23W4M
 ABGP0001237,Suspended,Samson Hudson,GP,Hudson,Nuvista Energy Ltd.,100.0% - Nuvista Energy Ltd.,,51.60706,-110.28319,04-31-030-02W4M
 ABGP0001238,Suspended,Talisman Hotchkiss,GP,Hotchkiss,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,57.19366,-118.21169,04-35-094-02W6M
 ABGP0001239,Abandoned,Sedalia 5-26-30-4W4,GP,Sedalia,Canadian Natural Resources Limited,85.0% - Canadian Natural Resources Limited; 15.0% - Nuvista Energy,1978-01-01,51.59628,-110.47069,05-26-030-04W4M
-ABGP0001240,Suspended,* Rife Ferintosh,GP,Ferintosh,Rife Resources Ltd.,100.0% - Rife Resources Ltd.,,52.77602,-112.90978,08-12-044-21W4M
-ABGP0001241,Suspended,* Norcen Lacombe,GP,Norcen Lacombe,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.4686,-113.68437,07-28-040-26W4M
+ABGP0001240,Suspended,Rife Ferintosh,GP,Ferintosh,Rife Resources Ltd.,100.0% - Rife Resources Ltd.,,52.77602,-112.90978,08-12-044-21W4M
+ABGP0001241,Suspended,Norcen Lacombe,GP,Norcen Lacombe,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.4686,-113.68437,07-28-040-26W4M
 ABGP0001242,Active,Bei Chip Lake 10-29,GP,Chip Lake,West 5 Resources Inc.,100.0% - West 5 Resources Inc.,,53.60848,-115.43573,10-29-053-10W5M
 ABGP0001243,Suspended,Hotchkiss 2-35-94-2W6,GP,Hotchkiss North,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1980-01-01,57.19365,-118.19853,02-35-094-02W6M
 ABGP0001244,Abandoned,Thunder Holmberg,GP,Holmberg,Crimson Oil & Gas Ltd.,100.0% - Crimson Oil & Gas Ltd.,1997-01-01,52.79428,-112.55883,11-16-044-18W4M
@@ -245,19 +245,19 @@ ABGP0001246,Suspended,Vermillion Gilby,GP,Gilby,Vermilion Energy Inc.,100.0% - V
 ABGP0001247,Suspended,Tom Brown Edson,GP,Tom Brown Edson,Ovintiv Canada Ulc,100.0% - Ovintiv Canada Ulc,,53.583,-116.55971,16-15-053-18W5M
 ABGP0001248,Suspended,Highland Morinville,GP,Riviere Qui Barre,Maga Energy Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,1974-01-01,53.68161,-113.8212,10-19-054-26W4M
 ABGP0001249,Active,Northstar Cyn-Pem,GP,Eta Lake,Vermilion Energy Inc.,73.9% - Vermilion Energy Inc.; 15.2% - Direct Energy Marketing Limited; 9.3% - Obsidian Energy Ltd.; 1.2% - Arc Resources Ltd.; 0.2% - Olympus Resources Ltd.; 0.2% - Heather Oil Ltd.,,53.38654,-115.60774,07-07-051-11W5M
-ABGP0001250,Suspended,* Amerada Garrington,GP,Amerada Garrington,177293 Canada Ltd.,100.0% - 177293 Canada Ltd.,,51.9279,-114.38855,02-20-034-03W5M
+ABGP0001250,Suspended,Amerada Garrington,GP,Amerada Garrington,177293 Canada Ltd.,100.0% - 177293 Canada Ltd.,,51.9279,-114.38855,02-20-034-03W5M
 ABGP0001251,Suspended,Cabre Marten Hills,GP,Fawcett River East,Sequoia Resources Corp.,100.0% - Sequoia Resources Corp.,,55.42632,-113.50968,11-20-074-23W4M
 ABGP0001252,Active,Norcen Provost,GP,Bodo,Goodland Energy Ltd.,100.0% - Goodland Energy Ltd.,1973-01-01,52.22844,-110.26991,16-31-037-02W4M
 ABGP0001253,Suspended,Pnrc Provost,GP,Pnrc Provost,Taqa North Ltd.,100.0% - Taqa North Ltd.,,52.46859,-111.36921,05-27-040-10W4M
 ABGP0001254,Suspended,Petro-Can Ricinus,GP,Bearberry,Taqa North Ltd.,100.0% - Taqa North Ltd.,1991-01-01,51.87309,-114.99057,05-31-033-07W5M
 ABGP0001256,Active,Pancdn Alderson,GP,Alderson West,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,1976-01-01,50.29005,-112.00649,10-28-015-15W4M
 ABGP0001257,Suspended,Aec Enchant (Cancelled),GP,Aec Enchant,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,,50.30453,-112.09803,10-35-015-16W4M
-ABGP0001259,Abandoned,* Universal Provost,GP,Universal Provost,Primewest Energy Inc.,100.0% - Taqa North Ltd.,,51.81447,-111.13006,06-07-033-08W4M
+ABGP0001259,Abandoned,Universal Provost,GP,Universal Provost,Primewest Energy Inc.,100.0% - Taqa North Ltd.,,51.81447,-111.13006,06-07-033-08W4M
 ABGP0001260,Suspended,Westlock 13-24-60-26W4,GP,Westlock East,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1976-01-01,54.20842,-113.77224,13-24-060-26W4M
 ABGP0001261,Active,Enermark Wildmere,GP,Gilt Edge,Enerplus Corporation,100.0% - Enerplus Corporation,,53.06505,-110.61137,05-24-047-05W4M
-ABGP0001262,Suspended,* Amoco Wintering Hills,GP,Amoco Wintering Hills,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,50.98513,-112.11259,06-25-023-16W4M
+ABGP0001262,Suspended,Amoco Wintering Hills,GP,Amoco Wintering Hills,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,50.98513,-112.11259,06-25-023-16W4M
 ABGP0001263,Suspended,Devon Ferrybank,GP,Ferrybank,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.83065,-113.91286,03-31-044-27W4M
-ABGP0001264,Suspended,* Gulf Bashaw,GP,Gulf Bashaw,Gulf Canada Limited,100.0% - Gulf Canada Limited,,52.58829,-113.15676,10-06-042-22W4M
+ABGP0001264,Suspended,Gulf Bashaw,GP,Gulf Bashaw,Gulf Canada Limited,100.0% - Gulf Canada Limited,,52.58829,-113.15676,10-06-042-22W4M
 ABGP0001265,Abandoned,Rio Alto Peco,GP,Rio Alto Peco,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.17243,-116.25946,11-27-048-16W5M
 ABGP0001266,Suspended,Ante Creek 4-13-65-24W5,GP,Ante Creek,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.61983,-117.50191,04-13-065-24W5M
 ABGP0001267,Active,Crestar Niton,GP,Niton,Cenovus Energy Inc.,61.4% - Cenovus Energy Inc.; 8.2% - Arc Resources Ltd.; 0.6% - Harvard International Resources Ltd.; 7.9% - Lario Oil & Gas Company; 12.7% - Penn West Petroleum; 0.4% - Vision 2000 Exploration Ltd.; 1.1% - Bonavista Oil & Gas,1977-01-01,53.67021,-115.7616,14-18-054-12W5M
@@ -268,7 +268,7 @@ ABGP0001271,Suspended,Crestar Provost,GP,Crestar Provost,Conocophillips Canada E
 ABGP0001272,Active,Pengrowth  Draig Hanna,GP,Hanna,Alphabow Energy Ltd.,100.0% - Alphabow Energy Ltd.,1977-01-01,51.62537,-111.86242,06-01-031-14W4M
 ABGP0001273,Suspended,D Energy Bashaw 11-24-41-21W4,GP,Buffalo Lake,Ember Resources Inc.,89.0% - Ember Resources Inc.,1977-01-01,52.54537,-112.89882,11-24-041-21W4M
 ABGP0001274,Abandoned,Berry 4-30-27-11W4,GP,Sceptre Berry,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.33065,-111.54901,04-30-027-11W4M
-ABGP0001275,Suspended,* Encal Killam,GP,Encal Killam,Taqa North Ltd.,100.0% - Taqa North Ltd.,,52.64701,-111.78915,10-27-042-13W4M
+ABGP0001275,Suspended,Encal Killam,GP,Encal Killam,Taqa North Ltd.,100.0% - Taqa North Ltd.,,52.64701,-111.78915,10-27-042-13W4M
 ABGP0001276,Abandoned,Meyer 15-29-70-24W4,GP,Meyer Lake North,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1977-01-01,55.09492,-113.62508,15-29-070-24W4M
 ABGP0001277,Active,Compton Halkirk,GP,Halkirk,Marlboro Energy Ltd.,100.0% - Marlboro Energy Ltd.,,52.30497,-112.2044,02-34-038-16W4M
 ABGP0001278,Suspended,Joffre 14-36-38-27W4,GP,Joffre,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1977-01-01,52.31573,-113.73347,14-36-038-27W4M
@@ -276,18 +276,18 @@ ABGP0001279,Suspended,Archean Kaybob South,GP,Kaybob South,Sinopec Daylight Ener
 ABGP0001280,Active,Bellshill-03-28-041-12 W4M,GP,Bellshill Lake,Harvest Operations Corp.,100.0% - Harvest Operations Corp.,1950-01-01,52.55234,-111.67519,03-28-041-12W4M
 ABGP0001281,Active,Killam 04-05-044-09W4,GP,Hawkins,Canadian Natural Resources Limited,49.0% - Long Run Exploration Ltd.; 51.0% - Canadian Natural Resources Limited,1972-01-01,52.75795,-111.2827,04-05-044-09W4M
 ABGP0001282,Abandoned,Apache Red Willow,GP,Red Willow,Karve Energy Inc.,100.0% - Karve Energy Inc.,,52.34478,-112.20311,14-11-039-16W4M
-ABGP0001283,Reclamation Certified,* Wascana Leduc-Woodbend,GP,Wascana Leduc Woodbend,Cnooc Petroleum North America Ulc,100.0% - Cnooc Petroleum North America Ulc,,53.24143,-113.6316,05-20-049-25W4M
-ABGP0001284,Abandoned,* Vintage Provost,GP,Vintage Provost,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,52.14487,-111.75189,02-02-037-13W4M
+ABGP0001283,Reclamation Certified,Wascana Leduc-Woodbend,GP,Wascana Leduc Woodbend,Cnooc Petroleum North America Ulc,100.0% - Cnooc Petroleum North America Ulc,,53.24143,-113.6316,05-20-049-25W4M
+ABGP0001284,Abandoned,Vintage Provost,GP,Vintage Provost,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,52.14487,-111.75189,02-02-037-13W4M
 ABGP0001285,Active,Apache Provost,GP,Castor East,Karve Energy Inc.,100.0% - Karve Energy Inc.,,52.23582,-111.78747,05-03-038-13W4M
-ABGP0001286,Reclamation Certified,* Talisman Hotchkiss,GP,Hotchkiss,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,57.11003,-118.14486,07-31-093-01W6M
+ABGP0001286,Reclamation Certified,Talisman Hotchkiss,GP,Hotchkiss,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,57.11003,-118.14486,07-31-093-01W6M
 ABGP0001287,Abandoned,Steele 10-19-66-24W4,GP,Steele,Sinopec Daylight Energy Ltd.,100.0% - Canadian Natural Resources Limited,,54.7272,-113.61964,10-19-066-24W4M
-ABGP0001288,Suspended,* Phillips Pouce Coupe,GP,Phillips Pouce Coupe,Phillips Petroleum Company Western Hemisphere,100.0% - Phillips Petroleum Company Western Hemisphere,,55.91796,-119.83718,07-08-080-12W6M
+ABGP0001288,Suspended,Phillips Pouce Coupe,GP,Phillips Pouce Coupe,Phillips Petroleum Company Western Hemisphere,100.0% - Phillips Petroleum Company Western Hemisphere,,55.91796,-119.83718,07-08-080-12W6M
 ABGP0001289,Suspended,Nce Ferrier,GP,Ferrier,Obsidian Energy Ltd.,100.0% - Orlen Upstream Canada Ltd.,,52.36857,-115.1677,06-24-039-09W5M
 ABGP0001290,Active,Conoco Hotchkiss,GP,Lovett Creek 1,Direct Oil & Gas Inc.,100.0% - Direct Oil & Gas Inc.,1993-01-01,57.15374,-118.33272,07-13-094-03W6M
-ABGP0001291,Suspended,* Canterra Oyen,GP,Canterra Oyen,Canterra Energy Ltd.,100.0% - Canterra Energy Ltd.,,51.48346,-110.5352,11-17-029-04W4M
+ABGP0001291,Suspended,Canterra Oyen,GP,Canterra Oyen,Canterra Energy Ltd.,100.0% - Canterra Energy Ltd.,,51.48346,-110.5352,11-17-029-04W4M
 ABGP0001292,Active,Wapiti 16-36-067-09W6,GP,South Wapiti,Canadian Natural Resources Limited,0.2% - Chair Resources Inc.; 0.3% - Superman Resources Inc.; 1.4% - Husky Oil Operations Limited; 3.7% - Nuvista Energy; 4.8% - Omers Energy Inc.; 0.0% - Dorchester Energy Inc.; 24.8% - Conocophillips Canada (Brc) Partnership; 1.4% - Reserve Royalty; 0.4% - Shanghai Energy Corporation; 62.9% - Canadian Natural Resources Limited,1982-01-01,54.84871,-119.22427,16-36-067-09W6M
 ABGP0001293,Active,Big Bend 13-36-66-27W4,GP,Big Bend,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1978-01-01,54.76011,-113.95977,13-36-066-27W4M
-ABGP0001294,Suspended,* New Jordan Red Willow,GP,New Jordan Red Willow,Primewest Energy Inc.,100.0% - Primewest Energy Inc.,,52.45397,-112.27507,06-20-040-16W4M
+ABGP0001294,Suspended,New Jordan Red Willow,GP,New Jordan Red Willow,Primewest Energy Inc.,100.0% - Primewest Energy Inc.,,52.45397,-112.27507,06-20-040-16W4M
 ABGP0001295,Active,Apache Leahurst,GP,Leahurst,Avila Exploration & Development Canada Ltd.,100.0% - Avila Exploration & Development Canada Ltd.,,52.44665,-112.58102,15-18-040-18W4M
 ABGP0001296,Active,Teepee Creek 07-02-074-04W6,GP,Teepee Creek,Canadian Natural Resources Limited,94.5% - Canadian Natural Resources Limited,1977-01-01,55.37972,-118.49694,07-02-074-04W6M
 ABGP0001297,Abandoned,Penn West Amisk,GP,Amisk,Cleo Energy Corp.,100.0% - Cleo Energy Corp.,,52.53765,-111.0637,01-22-041-08W4M
@@ -295,8 +295,8 @@ ABGP0001298,Active,Apache Provost,GP,Provost East,Karve Energy Inc.,100.0% - Kar
 ABGP0001299,Active,Baytex Twining,GP,Twining North,Barnwell Of Canada; Limited,100.0% - Barnwell Of Canada  Limited,1977-01-01,51.79641,-113.45064,04-02-033-25W4M
 ABGP0001300,Abandoned,Gulf Sunnynook,GP,Sunnynook,Gulf Canada Limited,100.0% - Alphabow Energy Ltd.,,51.25071,-111.43229,10-26-026-11W4M
 ABGP0001301,Suspended,Danoil Judy Creek,GP,Judy Creek,Razor Energy Corp.,100.0% - Razor Energy Corp.,,54.4596,-115.59236,01-21-063-11W5M
-ABGP0001303,Suspended,* Solex Haro,GP,Solex Haro,625894 Alberta Inc.,100.0% - Sanling Energy Ltd.,,58.23313,-118.78421,10-29-106-05W6M
-ABGP0001304,Suspended,* Solex Haro,GP,Solex Haro,625894 Alberta Inc.,100.0% - Obsidian Energy Ltd.,,58.07313,-118.76341,11-33-104-05W6M
+ABGP0001303,Suspended,Solex Haro,GP,Solex Haro,625894 Alberta Inc.,100.0% - Sanling Energy Ltd.,,58.23313,-118.78421,10-29-106-05W6M
+ABGP0001304,Suspended,Solex Haro,GP,Solex Haro,625894 Alberta Inc.,100.0% - Obsidian Energy Ltd.,,58.07313,-118.76341,11-33-104-05W6M
 ABGP0001305,Suspended,Genesis Baptiste,GP,Island Lake,Sinopec Daylight Energy Ltd.,100.0% - Sinopec Daylight Energy Ltd.,1977-01-01,54.88401,-113.49181,08-18-068-23W4M
 ABGP0001306,Abandoned,Big Bend 5-14-67-2W5,GP,Tieland,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.79791,-114.20206,05-14-067-02W5M
 ABGP0001307,Suspended,Altagas Ferrybank,GP,Ferrybank,Altagas Ltd.,100.0% - Altagas Ltd.,,52.8706,-113.81613,14-11-045-27W4M
@@ -305,23 +305,23 @@ ABGP0001309,Abandoned,Devon Tangent,GP,Tangent,Canadian Natural Resources Limite
 ABGP0001310,Abandoned,Marathon Cessford,GP,Marathon Cessford,Husky Oil Operations Limited,100.0% - Canadian Natural Resources Limited,,51.20698,-111.9964,11-11-026-15W4M
 ABGP0001311,Suspended,Connorsville 9-32-25-15W4,GP,Connorsville,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1977-01-01,51.17783,-112.05466,09-32-025-15W4M
 ABGP0001312,Suspended,Samson Rainbow,GP,Basset Lake,Sanling Energy Ltd.,100.0% - Sanling Energy Ltd.,1979-01-01,58.36709,-118.98728,15-07-108-06W6M
-ABGP0001313,Suspended,* Pennzoil Sturgeon Lake,GP,Pennzoil Sturgeon Lake,Conocophillips Canada Resources Corp.,100.0% - Serinus Energy Inc.,,55.05213,-117.46839,15-08-070-23W5M
+ABGP0001313,Suspended,Pennzoil Sturgeon Lake,GP,Pennzoil Sturgeon Lake,Conocophillips Canada Resources Corp.,100.0% - Serinus Energy Inc.,,55.05213,-117.46839,15-08-070-23W5M
 ABGP0001314,Abandoned,Celsius Hanna,GP,Celsius Hanna,Enerplus Corporation,100.0% - Canadian Natural Resources Limited,,51.69442,-111.8566,02-36-031-14W4M
 ABGP0001315,Active,Vermillion Mikwan,GP,Mikwan,Vermilion Energy Inc.,65.7% - Vermilion Energy Inc.; 13.2% - Canetic Abc Acquisitionco Ltd.; 11.3% - Penn West Ptf Energy Ltd.; 5.1% - Regent Resources Ltd.,,52.18125,-113.07947,09-16-037-22W4M
 ABGP0001316,Active,Talisman George,GP,George,Spartan Delta Corp.,100.0% - Spartan Delta Corp.,1978-01-01,56.0961,-118.76076,09-07-082-05W6M
 ABGP0001317,Suspended,Opal Clive,GP,Clive Refrigeration,Ember Resources Inc.,100.0% - Ember Resources Inc.,1988-01-01,52.45405,-113.33038,06-24-040-24W4M
-ABGP0001318,Suspended,* Imperial Provost,GP,Provost,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,52.23219,-111.78748,04-03-038-13W4M
+ABGP0001318,Suspended,Imperial Provost,GP,Provost,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,52.23219,-111.78748,04-03-038-13W4M
 ABGP0001319,Suspended,D Energy Abee 1-32-61-22W4,GP,Abee,Canlin Resources Partnership,,1976-01-01,54.31408,-113.25368,01-32-061-22W4M
 ABGP0001320,Suspended,Ranger Hussar,GP,Crawling Valley,Torxen Energy Ltd.,78.0% - Torxen Energy Ltd.; 22.0% - Canadian Natural Resources Limited,,50.99965,-112.46135,06-33-023-18W4M
-ABGP0001321,Abandoned,* Imperial Pembina (Knobhill),GP,Pembina,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,52.97625,-114.18614,03-23-046-02W5M
+ABGP0001321,Abandoned,Imperial Pembina (Knobhill),GP,Pembina,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,52.97625,-114.18614,03-23-046-02W5M
 ABGP0001322,Suspended,Josephine 9-1-83-10W6,GP,Josephine,Canadian Natural Resources Limited,62.0% - Canadian Natural Resources Limited; 38.4% - Spyglass Resources Corp.,1973-01-01,56.16918,-119.42774,09-01-083-10W6M
 ABGP0001323,Suspended,Husky Steele 14-34,GP,Steele Lake,Husky Oil Operations Limited,100.0% - Sequoia Resources Corp.,,54.67324,-113.55065,14-34-065-24W4M
-ABGP0001324,Suspended,* Talisman Sundance,GP,Sundance,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.69209,-116.9646,06-25-054-21W5M
-ABGP0001325,Suspended,* Archer Inland,GP,Archer Inland,1333002 Alberta Ltd.,100.0% - 1333002 Alberta Ltd.,,53.42693,-112.08764,04-25-051-15W4M
+ABGP0001324,Suspended,Talisman Sundance,GP,Sundance,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.69209,-116.9646,06-25-054-21W5M
+ABGP0001325,Suspended,Archer Inland,GP,Archer Inland,1333002 Alberta Ltd.,100.0% - 1333002 Alberta Ltd.,,53.42693,-112.08764,04-25-051-15W4M
 ABGP0001326,Active,Semcams Ulc West Fox Creek 11-22,GP,Fox Creek West,Energy Transfer Canada Ulc,75.6% - Energy Transfer Canada Ulc; 13.9% - Taqa North Ltd.; 10.4% - Talisman Energy Inc.; 0.1% - Paramount Resources (Acl) Ltd.,1979-01-01,54.20495,-116.76697,11-22-060-19W5M
 ABGP0001327,Suspended,Glencoe Chigwell,GP,Chigwell,Glencoe Resources Ltd.,100.0% - Glencoe Resources Ltd.,1986-01-01,52.54125,-113.52829,05-22-041-25W4M
 ABGP0001328,Suspended,Crestar Niton West,GP,Niton West,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,53.75388,-115.86891,10-16-055-13W5M
-ABGP0001329,Suspended,* Pancdn Entice,GP,Entice Phase 1,Ovintiv Canada Ulc,100.0% - Ember Resources Inc.,,51.38143,-113.2252,10-07-028-23W4M
+ABGP0001329,Suspended,Pancdn Entice,GP,Entice Phase 1,Ovintiv Canada Ulc,100.0% - Ember Resources Inc.,,51.38143,-113.2252,10-07-028-23W4M
 ABGP0001330,Abandoned,Baptiste Lake 5-28-67-22W4,GP,Baptiste,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.8258,-113.30723,05-28-067-22W4M
 ABGP0001331,Suspended,Altagas Acadia,GP,Acadia Valley,Altagas Ltd.,100.0% - Altagas Ltd.,1979-01-01,51.21041,-110.16472,13-12-026-02W4M
 ABGP0001332,Suspended,Gulf Dobson,GP,Dobson,Conocophillips Canada Resources Corp.,100.0% - Canadian Natural Resources Limited,,51.49435,-111.20345,08-21-029-09W4M
@@ -333,12 +333,12 @@ ABGP0001337,Suspended,Crestar Goodwin,GP,Crestar Goodwin,Cenovus Energy Inc.,100
 ABGP0001338,Suspended,Enermark Valhalla,GP,Valhalla,Enerplus Corporation,29.0% - Longshore Resources Ltd.,1983-01-01,55.49961,-119.50961,10-17-075-10W6M
 ABGP0001339,Active,Gulf Berry,GP,Berry,Fairwest Energy Corporation,100.0% - Fairwest Energy Corporation,1975-01-01,51.31961,-111.68377,06-19-027-12W4M
 ABGP0001340,Active,Stellarton Edson,GP,Edson,Long Run Exploration Ltd.,100.0% - Long Run Exploration Ltd.,1981-01-01,53.65945,-116.65787,01-13-054-19W5M
-ABGP0001341,Abandoned,* Amoco Kaybob South,GP,Kaybob South,Bp Canada Energy Group Ulc,100.0% - Paramount Resources Ltd.,,54.32877,-117.07955,01-04-062-21W5M
+ABGP0001341,Abandoned,Amoco Kaybob South,GP,Kaybob South,Bp Canada Energy Group Ulc,100.0% - Paramount Resources Ltd.,,54.32877,-117.07955,01-04-062-21W5M
 ABGP0001343,Active,Goodfare 04-19-072-11W6 Gas Plant,GP,Goodfare,Tidewater Midstream And Infrastructure Ltd.,76.1% - Cenovus Energy Inc.; 4.8% - Shield Energy Ltd.; 19.1% - Tidewater Midstream And Infrastructure Ltd.,1979-01-01,55.2451,-119.68898,04-19-072-11W6M
 ABGP0001344,Active,Ember Entice 01-24-028-24W4,GP,Entice Phase 2,Ember Resources Inc.,100.0% - Ember Resources Inc.,,51.4033,-113.24283,01-24-028-24W4M
 ABGP0001345,Suspended,Rich 1-19-35-21W4,GP,Rich,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.01383,-112.98437,01-19-035-21W4M
 ABGP0001346,Suspended,Ante Creek 10-18-65-23W5,GP,Ante Creek,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.62699,-117.46434,10-18-065-23W5M
-ABGP0001347,Abandoned,* Chauvco Provost,GP,Chauvco Provost,Taqa North Ltd.,100.0% - Taqa North Ltd.,,52.35576,-110.90771,11-14-039-07W4M
+ABGP0001347,Abandoned,Chauvco Provost,GP,Chauvco Provost,Taqa North Ltd.,100.0% - Taqa North Ltd.,,52.35576,-110.90771,11-14-039-07W4M
 ABGP0001348,Suspended,Cdn Conquest Rich,GP,Cdn Conquest Rich,Primewest Energy Inc.,100.0% - 2234873 Alberta Ltd.,,52.02442,-112.91315,16-22-035-21W4M
 ABGP0001350,Active,Elmworth  4-8-70-11W6,GP,Elmworth Shallow Cut,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,1979-01-01,55.0415,-119.63099,01-08-070-11W6M
 ABGP0001351,Active,Elmworth 4-8-69-8W6,GP,Wapiti,Canadian Natural Resources Limited,25.5% - Conocophillips Canada Limited; 0.7% - Husky Oil Operations Limited; 2.2% - Nuvista Energy; 2.2% - Omers Energy Inc.; 0.2% - Superman Resources Inc.; 1.2% - Progress Exploration Ltd.; 0.9% - Distinction Energy Corp.; 0.5% - Chair Resources Inc.; 63.4% - Canadian Natural Resources Limited; 0.1% - Dorchester Energy Inc.; 3.1% - Reserve Royalty,1985-01-01,54.95425,-119.19223,04-08-069-08W6M
@@ -352,65 +352,65 @@ ABGP0001358,Suspended,Tarragon Wintering Hills,GP,Wintering Hills,Canadian Natur
 ABGP0001359,Suspended,Cyn-Pem 9-16-51-11W5,GP,Cyn-Pem,Canadian Natural Resources Limited,100.0% - Vermilion Energy Inc.,,53.40482,-115.5525,09-16-051-11W5M
 ABGP0001360,Active,Petro-Can Hanlan,GP,Hanlan Robb,Canlin Resources Partnership,,1983-01-01,53.2051,-116.81395,15-02-049-20W5M
 ABGP0001361,Suspended,Enermark Kaybob,GP,Kaybob,Enerplus Corporation,85.0% - Enerplus Corporation,1990-01-01,54.49611,-116.73896,11-36-063-19W5M
-ABGP0001362,Suspended,* Pancdn Verger,GP,Pancdn Verger,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,50.89782,-112.11386,07-26-022-16W4M
+ABGP0001362,Suspended,Pancdn Verger,GP,Pancdn Verger,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,50.89782,-112.11386,07-26-022-16W4M
 ABGP0001363,Suspended,Duhamel 3-32-45-21W5,GP,Duhamel,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.91796,-113.01851,03-32-045-21W4M
 ABGP0001364,Suspended,Talisman Shane,GP,Shane,Hanna Oil & Gas Company - Canada Ulc,83.3% - Hanna Oil & Gas Company - Canada Ulc; 2.6% - Signalta Resources Limited; 14.1% - Manitok Energy Inc.,,55.7577,-118.29484,07-18-078-02W6M
 ABGP0001365,Suspended,Signalta Forestburg,GP,Forestburg,Signalta Resources Limited,100.0% - Signalta Resources Limited,1984-01-01,52.62149,-112.20891,13-14-042-16W4M
-ABGP0001366,Suspended,* Crestar Provost,GP,Crestar Provost,Conocophillips Canada Energy Partnership,100.0% - Conocophillips Canada Energy Partnership,,51.82173,-111.08862,13-09-033-08W4M
-ABGP0001367,Suspended,* Pancdn Morley,GP,Pancdn Morley,Ovintiv Canada Ulc,100.0% - Ovintiv Canada Ulc,,51.19249,-114.86494,09-02-026-07W5M
+ABGP0001366,Suspended,Crestar Provost,GP,Crestar Provost,Conocophillips Canada Energy Partnership,100.0% - Conocophillips Canada Energy Partnership,,51.82173,-111.08862,13-09-033-08W4M
+ABGP0001367,Suspended,Pancdn Morley,GP,Pancdn Morley,Ovintiv Canada Ulc,100.0% - Ovintiv Canada Ulc,,51.19249,-114.86494,09-02-026-07W5M
 ABGP0001368,Active,Argonauts Thorsby,GP,Thorsby,Petrus Resources Corp.,100.0% - Petrus Resources Corp.,1982-01-01,53.19787,-114.09619,05-04-049-01W5M
 ABGP0001369,Abandoned,Joarcam 7-14-50-22W4,GP,Joarcam,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.31414,-113.10809,07-14-050-22W4M
 ABGP0001370,Active,Keyera Braz North Plt 16-35-48-12W5,GP,North Brazeau,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,,53.19052,-115.63812,16-35-048-12W5M
-ABGP0001371,Suspended,* Norcen Giroux Lake,GP,Norcen Giroux Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.69975,-117.21169,10-11-066-22W5M
-ABGP0001372,Suspended,* Petro-Can Brazeau River,GP,Brazeau River,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,,53.17965,-115.7536,04-31-048-12W5M
+ABGP0001371,Suspended,Norcen Giroux Lake,GP,Norcen Giroux Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.69975,-117.21169,10-11-066-22W5M
+ABGP0001372,Suspended,Petro-Can Brazeau River,GP,Brazeau River,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,,53.17965,-115.7536,04-31-048-12W5M
 ABGP0001373,Abandoned,Ascot Watelet,GP,Ascot Watelet,Obsidian Energy Ltd.,,,53.05241,-113.69257,07-14-047-26W4M
 ABGP0001374,Suspended,Amoco Caroline N,GP,Caroline North,Bonavista Energy Corporation,100.0% - Bonavista Energy Corporation,,51.98623,-114.74246,01-11-035-06W5M
-ABGP0001375,Suspended,* Amoco Brazeau River,GP,Brazeau River,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,53.0198,-115.75364,04-06-047-12W5M
+ABGP0001375,Suspended,Amoco Brazeau River,GP,Brazeau River,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,53.0198,-115.75364,04-06-047-12W5M
 ABGP0001376,Suspended,Altagas Alder Flats,GP,Pembina,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,,52.91075,-115.1712,10-25-045-09W5M
 ABGP0001377,Active,Gulf Med River,GP,Medicine River,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,1979-01-01,52.3577,-114.32244,10-14-039-03W5M
-ABGP0001378,Suspended,* Imperial Provost,GP,Provost,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,52.45393,-111.40536,07-20-040-10W4M
+ABGP0001378,Suspended,Imperial Provost,GP,Provost,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,52.45393,-111.40536,07-20-040-10W4M
 ABGP0001379,Active,Ferrier 1-34-40-9W5,GP,Ferrier,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1980-01-01,52.48135,-115.20392,01-34-040-09W5M
 ABGP0001380,Active,Chinchaga 1-24-96-5W6,GP,Cranberry,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,57.339,-118.6543,01-24-096-05W6M
 ABGP0001381,Active,Highvale Gas Plant 10-04,GP,Highvale,New Star Energy Ltd.,100.0% - New Star Energy Ltd.,1980-01-01,53.376,-114.52716,10-04-051-04W5M
 ABGP0001382,Suspended,Compton Bigoray Gas Plant,GP,Compton Bigoray,Lexin Resources Ltd.,100.0% - Tallgrass Energy Corp.,,53.39022,-115.28229,09-08-051-09W5M
 ABGP0001383,Active,Vallhala 1-29-75-9W6,GP,Valhalla,Canadian Natural Resources Limited,5.5% - Encana Corporation; 0.5% - Doag Energy Ltd.; 32.8% - Trilogy Resources Ltd.; 0.3% - Kelt Exploration Ltd.; 0.6% - Longshore Resources Ltd.; 37.2% - Canadian Natural Resources Limited; 9.6% - Whitecap Resources Inc.; 0.7% - Surge Energy Inc.; 12.8% - Husky Oil Operations Limited,,55.52145,-119.34814,01-29-075-09W6M
-ABGP0001384,Suspended,* Cdn Sup Killam,GP,Cdn Sup Killam,Exxonmobil Resources Ltd.,100.0% - Exxonmobil Resources Ltd.,,52.7907,-111.77274,08-14-044-13W4M
+ABGP0001384,Suspended,Cdn Sup Killam,GP,Cdn Sup Killam,Exxonmobil Resources Ltd.,100.0% - Exxonmobil Resources Ltd.,,52.7907,-111.77274,08-14-044-13W4M
 ABGP0001385,Suspended,Viridian Campbell-Namao,GP,Viridian Campbell Namao,Agrium Inc.,100.0% - Agrium Inc.,,53.65601,-113.56257,13-12-054-25W4M
 ABGP0001386,Active,Amoco Willesden Green,GP,Crimson Lake,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,1980-01-01,52.6523,-115.07786,13-27-042-08W5M
 ABGP0001387,Active,Seiu Lake 14-12-26-19W4,GP,Sieu Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.21063,-112.53117,14-12-026-19W4M
-ABGP0001389,Suspended,* Ranger Leahurst,GP,Ranger Leahurst,Canadian Natural Resources Limited,100.0% - Ember Resources Inc.,,52.35227,-112.68275,06-16-039-19W4M
+ABGP0001389,Suspended,Ranger Leahurst,GP,Ranger Leahurst,Canadian Natural Resources Limited,100.0% - Ember Resources Inc.,,52.35227,-112.68275,06-16-039-19W4M
 ABGP0001390,Abandoned,Esther 6-9-31-1W4,GP,Esther,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.63988,-110.0906,06-09-031-01W4M
 ABGP0001391,Abandoned,Atco Midstream Pembina Cranberry,GP,Slave Point,Atco Energy Solutions Ltd.,100.0% - Atco Energy Solutions Ltd.,,57.33902,-118.45755,04-20-096-03W6M
 ABGP0001392,Active,Conoco Peco,GP,Peco,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,53.20152,-116.21667,12-01-049-16W5M
-ABGP0001393,Suspended,* Poco Redwater,GP,Poco Redwater,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,53.7508,-112.72465,05-14-055-19W4M
+ABGP0001393,Suspended,Poco Redwater,GP,Poco Redwater,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,53.7508,-112.72465,05-14-055-19W4M
 ABGP0001394,Active,D Energy Carrot Creek 10-16-53-13W5,GP,Carrot Creek,Vermilion Energy Inc.,100.0% - Vermilion Energy Inc.,,53.57939,-115.85348,10-16-053-13W5M
 ABGP0001396,Suspended,Border Midstream Gladys,GP,Gladys,Lexin Resources Ltd.,100.0% - Lexin Resources Ltd.,,50.69418,-113.66633,06-15-020-27W4M
 ABGP0001397,Active,Calling Lake S 1-20-70-22W4,GP,Calling Lake South,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1978-01-01,55.06939,-113.31382,01-20-070-22W4M
 ABGP0001398,Suspended,Anadarko Beaverhill Lake,GP,Anadarko Beaverhill Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.48511,-112.62836,04-17-052-18W4M
 ABGP0001399,Abandoned,Imperial Wilson Creek,GP,Wilson Creek,I3 Energy Canada Ltd.,100.0% - I3 Energy Canada Ltd.,,52.66337,-114.63473,10-34-042-05W5M
-ABGP0001400,Suspended,* Clearport Gunn,GP,Clearport Gunn,Clearport Holdings Ltd,100.0% - Clearport Holdings Ltd,,53.74278,-114.41355,14-08-055-03W5M
+ABGP0001400,Suspended,Clearport Gunn,GP,Clearport Gunn,Clearport Holdings Ltd,100.0% - Clearport Holdings Ltd,,53.74278,-114.41355,14-08-055-03W5M
 ABGP0001401,Active,Opal Redwater 1-25-57-23 Gp,GP,Opal,Baytex Energy Ltd.,100.0% - Baytex Energy Ltd.,1981-01-01,53.95095,-113.27638,01-25-057-23W4M
 ABGP0001402,Active,Keyera Pembina Gas Plant 11-22,GP,North Pembina,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,1981-01-01,53.24511,-115.67457,11-22-049-12W5M
 ABGP0001403,Suspended,Tony Creek North 7-16-64-21W5,GP,Waskahigan,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.53626,-117.11086,07-16-064-21W5M
 ABGP0001404,Suspended,Eaglesham South 2-24-77-25W5,GP,Eaglesham South,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,55.66695,-117.76159,02-14-077-25W5M
-ABGP0001405,Suspended,* Talisman Sundance,GP,Old Man,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.64835,-117.03236,07-09-054-21W5M
+ABGP0001405,Suspended,Talisman Sundance,GP,Old Man,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.64835,-117.03236,07-09-054-21W5M
 ABGP0001406,Abandoned,Alberta Selecta Corp. Sedgewick,GP,Bellshill Lake,Ovintiv Canada Ulc,100.0% - Ovintiv Canada Ulc,,52.6288,-111.66922,07-21-042-12W4M
 ABGP0001407,Suspended,Aav Joffre 13-12-038-27W4 Gp,GP,Joffre,Advantage Energy Ltd.,54.7% - Advantage Energy Ltd.; 40.8% - Obsidian Energy Ltd.; 0.8% - Bonavista Energy Lp; 0.8% - Signalta Resources Limited; 2.4% - Devon Canada Corporation,1981-01-01,52.2575,-113.73949,13-12-038-27W4M
 ABGP0001408,Suspended,Devon Leo,GP,Leo,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.11196,-112.3055,14-24-036-17W4M
-ABGP0001409,Suspended,* Pancdn Bashaw,GP,Pancdn Bashaw,Ovintiv Canada Ulc,100.0% - Ovintiv Canada Ulc,,52.64708,-112.89842,11-25-042-21W4M
-ABGP0001410,Suspended,* Enron Blackfoot,GP,Enron Blackfoot,Lynx Energy Ulc,100.0% - Lynx Energy Ulc,,50.8944,-113.03709,02-30-022-22W4M
+ABGP0001409,Suspended,Pancdn Bashaw,GP,Pancdn Bashaw,Ovintiv Canada Ulc,100.0% - Ovintiv Canada Ulc,,52.64708,-112.89842,11-25-042-21W4M
+ABGP0001410,Suspended,Enron Blackfoot,GP,Enron Blackfoot,Lynx Energy Ulc,100.0% - Lynx Energy Ulc,,50.8944,-113.03709,02-30-022-22W4M
 ABGP0001411,Suspended,Paramount Saleski,GP,Saleski,Sequoia Resources Corp.,100.0% - Sequoia Resources Corp.,1982-01-01,56.49893,-112.85353,08-36-086-19W4M
 ABGP0001412,Active,Endiang 6-28-34-15W4,GP,Spiers,Canadian Natural Resources Limited,86.5% - Canadian Natural Resources Limited,1981-01-01,51.94548,-112.07497,06-28-034-15W4M
 ABGP0001413,Active,Success Berry Gas Plant,GP,Berry,Success Resources Ltd.,100.0% - Success Resources Ltd.,1983-01-01,51.27252,-111.77171,02-04-027-13W4M
 ABGP0001414,Active,Campus Parkland,GP,Parkland,Campus Energy Partners Operations Inc.,100.0% - Campus Energy Partners Operations Inc.,1983-01-01,50.2426,-113.60711,07-11-015-27W4M
-ABGP0001415,Abandoned,* Cimarron Manyberries,GP,Manyberries,Hunt Oil Company Of Canada; Inc.,100.0% - Cenovus Energy Inc.,,49.47044,-110.80455,06-18-006-06W4M
-ABGP0001416,Suspended,* Roan Med Hat,GP,Roan Med Hat,7246366 Canada Ltd.,100.0% - Ovintiv Canada Ulc,,49.71864,-110.73571,07-10-009-06W4M
+ABGP0001415,Abandoned,Cimarron Manyberries,GP,Manyberries,Hunt Oil Company Of Canada; Inc.,100.0% - Cenovus Energy Inc.,,49.47044,-110.80455,06-18-006-06W4M
+ABGP0001416,Suspended,Roan Med Hat,GP,Roan Med Hat,7246366 Canada Ltd.,100.0% - Ovintiv Canada Ulc,,49.71864,-110.73571,07-10-009-06W4M
 ABGP0001417,Active,Galloway 14-14-53-20W5,GP,Galloway,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.58303,-116.84201,14-14-053-20W5M
 ABGP0001418,Active,Ante Creek 10-4-66-23W5,GP,Dunvegan,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.68518,-117.41393,10-04-066-23W5M
 ABGP0001419,Active,Killam N 04-05-045-12W4 Gas Plant,GP,Killam North,Axiom Oil And Gas Inc.,20.0% - Long Run Exploration Ltd.; 20.0% - Altagas Ltd.; 60.0% - Axiom Oil And Gas Inc.,1973-01-01,52.84523,-111.7181,04-05-045-12W4M
-ABGP0001420,Suspended,* Stealth Big Coulee,GP,Stealth Big Coulee,Encana Corporation,100.0% - Encana Corporation,,54.81483,-113.54907,10-23-067-24W4M
+ABGP0001420,Suspended,Stealth Big Coulee,GP,Stealth Big Coulee,Encana Corporation,100.0% - Encana Corporation,,54.81483,-113.54907,10-23-067-24W4M
 ABGP0001421,Abandoned,Bonavista Blood,GP,Magrath,Tamarack Acquisition Corp.,100.0% - Tamarack Acquisition Corp.,,49.45587,-112.92824,07-08-006-22W4M
-ABGP0001422,Suspended,* Chevron House,GP,House,Chevron Canada Limited,100.0% - Canadian Natural Resources Limited,,56.08433,-112.51474,16-01-082-17W4M
+ABGP0001422,Suspended,Chevron House,GP,House,Chevron Canada Limited,100.0% - Canadian Natural Resources Limited,,56.08433,-112.51474,16-01-082-17W4M
 ABGP0001423,Active,Star Swan Hills,GP,House Mountain,Acquisition Oil Corp.,100.0% - Acquisition Oil Corp.,,55.0051,-115.45999,10-28-069-10W5M
 ABGP0001424,Active,Boundary Lake Central 10-33 Plant,GP,Hill,Enercapita Energy Ltd.,100.0% - Enercapita Energy Ltd.,1982-01-01,56.41539,-119.67162,10-33-085-11W6M
 ABGP0001425,Active,Pengrowth Mkwan 102/09-21-038-23W4,GP,Ardley,Alphabow Energy Ltd.,100.0% - Alphabow Energy Ltd.,,52.28312,-113.22236,09-21-038-23W4M
@@ -418,12 +418,12 @@ ABGP0001426,Active,Shiningbank Berrymoor Pembina,GP,Berrymoor,Arc Resources Ltd.
 ABGP0001427,Suspended,Keyera Chinchaga North 05-32-98-7W6,GP,Chinchaga North,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,1983-01-01,57.54618,-119.10769,05-32-098-07W6M
 ABGP0001428,Abandoned,Star Boundary Lake South,GP,Star Boundary Lake South,Enercapita Energy Ltd.,100.0% - Enercapita Energy Ltd.,,56.26998,-119.80348,10-10-084-12W6M
 ABGP0001429,Active,Tarragon Swalwell,GP,Swalwell,Ember Resources Inc.,25.0% - Bumper Development Corporation Ltd.; 75.0% - Ember Resources Inc.,1980-01-01,51.53056,-113.27785,14-35-029-24W4M
-ABGP0001430,Suspended,* Tarragon Twining,GP,Twining,Husky Oil Operations Limited,100.0% - Tidewater Midstream And Infrastructure Ltd.,,52.80444,-112.19595,06-24-044-16W4M
+ABGP0001430,Suspended,Tarragon Twining,GP,Twining,Husky Oil Operations Limited,100.0% - Tidewater Midstream And Infrastructure Ltd.,,52.80444,-112.19595,06-24-044-16W4M
 ABGP0001431,Suspended,C Star Sullivan Lake,GP,C Star Sullivan Lake,Arc Resources Ltd.,100.0% - Arc Resources Ltd.,,52.02839,-111.86504,01-25-035-14W4M
-ABGP0001432,Suspended,* Cabre Strom,GP,Cabre Strom,Enermark Inc.,100.0% - Tidewater Midstream And Infrastructure Ltd.,,52.80444,-112.19595,06-24-044-16W4M
+ABGP0001432,Suspended,Cabre Strom,GP,Cabre Strom,Enermark Inc.,100.0% - Tidewater Midstream And Infrastructure Ltd.,,52.80444,-112.19595,06-24-044-16W4M
 ABGP0001433,Suspended,Donnelly 6-1-77-21W5,GP,Girouxville Kenzie,Long Run Exploration Ltd.,100.0% - Long Run Exploration Ltd.,2006-01-01,55.64146,-117.1216,06-01-077-21W5M
 ABGP0001434,Active,Pancdn Hussar,GP,Crowfoot,Lynx Energy Ulc,100.0% - Lynx Energy Ulc,1983-01-01,51.02146,-112.94975,14-01-024-22W4M
-ABGP0001435,Abandoned,* Pennzoil Roxana,GP,Pennzoil Roxana,625894 Alberta Inc.,100.0% - Obsidian Energy Ltd.,,55.79054,-116.8565,10-27-078-19W5M
+ABGP0001435,Abandoned,Pennzoil Roxana,GP,Pennzoil Roxana,625894 Alberta Inc.,100.0% - Obsidian Energy Ltd.,,55.79054,-116.8565,10-27-078-19W5M
 ABGP0001436,Abandoned,Conoco Joarvie,GP,Jarvie,Paramount Resources Ltd.,84.0% - Paramount Resources Ltd.; 14.0% - Canadian Natural Resources Limited; 1.0% - Husky Oil Operations Limited,1981-01-01,54.33961,-114.11131,15-05-062-01W5M
 ABGP0001437,Active,Cascade Caroline,GP,Sundre,Taqa North Ltd.,100.0% - Taqa North Ltd.,1993-01-01,51.85515,-114.74864,03-26-033-06W5M
 ABGP0001438,Suspended,Stanmore 11-16-30-10W4,GP,Scotfield,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,51.57081,-111.35569,11-16-030-10W4M
@@ -436,19 +436,19 @@ ABGP0001444,Suspended,Apache Monitor,GP,Monitor,Karve Energy Inc.,100.0% - Karve
 ABGP0001445,Active,Penn West Pembina,GP,Sun Creek,Tamarack Acquisition Corp.,100.0% - Tamarack Acquisition Corp.,1980-01-01,52.89301,-114.86249,06-19-045-06W5M
 ABGP0001446,Suspended,Husky Erskine 9-31,GP,Husky Erskine,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,52.39945,-112.86307,09-31-039-20W4M
 ABGP0001447,Suspended,Forest Deanne,GP,Forest Deanne,Forest Oil Corporation,100.0% - Taqa North Ltd.,,52.30981,-115.44457,06-36-038-11W5M
-ABGP0001448,Suspended,* Strike Crystal,GP,Strike Crystal,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,52.92912,-114.43976,16-36-045-04W5M
+ABGP0001448,Suspended,Strike Crystal,GP,Strike Crystal,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,52.92912,-114.43976,16-36-045-04W5M
 ABGP0001449,Suspended,Apf Energy Joarcam,GP,Joarcam,Enerplus Corporation,100.0% - Enerplus Corporation,,53.13242,-112.82753,13-11-048-20W4M
 ABGP0001450,Suspended,Orion Baptiste,GP,Orion Baptiste,Arc Resources Ltd.,100.0% - Canadian Natural Resources Limited,,54.79666,-113.35813,05-18-067-22W4M
 ABGP0001451,Abandoned,Corker Liege,GP,Mackay,Bonavista Energy Corporation,53.0% - Bonavista Energy Corporation; 47.0% - Avenir Oil & Gas Corp.,1982-01-01,56.73876,-113.29167,14-21-089-21W4M
 ABGP0001452,Suspended,Husky Redwater 15-16,GP,Redwater,Tamarack Acquisition Corp.,100.0% - Tamarack Acquisition Corp.,,53.84529,-112.91079,15-16-056-20W4M
 ABGP0001453,Abandoned,Penn West Compeer,GP,Penn West Compeer,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,51.8726,-110.16142,06-36-033-02W4M
 ABGP0001454,Suspended,00/14-36-053-26W4 St Albert Gp,GP,Big Lake,Sinopec Daylight Energy Ltd.,100.0% - Sinopec Daylight Energy Ltd.,1960-01-01,53.62692,-113.70437,14-36-053-26W4M
-ABGP0001455,Reclamation Certified,* Paz Fenn-Big Valley,GP,Paz Fenn Big Valley,Journey Energy Inc.,100.0% - Strathcona Resources Ltd.,,51.97051,-112.63304,02-03-035-19W4M
+ABGP0001455,Reclamation Certified,Paz Fenn-Big Valley,GP,Paz Fenn Big Valley,Journey Energy Inc.,100.0% - Strathcona Resources Ltd.,,51.97051,-112.63304,02-03-035-19W4M
 ABGP0001456,Suspended,Gilby-10-34-040-04 W5M,GP,Gilby,Harvest Operations Corp.,100.0% - Harvest Operations Corp.,,52.48859,-114.49053,10-34-040-04W5M
 ABGP0001457,Suspended,Kanex Grand Prix Scandia,GP,Scandia,Success Resources Ltd.,100.0% - Success Resources Ltd.,,50.39552,-112.09234,16-35-016-16W4M
 ABGP0001458,Suspended,Keyera West Pembina 10-10-047-14W5,GP,West Pembina,Keyera Energy Ltd.,83.1% - Keyera Energy Ltd.; 4.2% - Paramount Resources Ltd.; 3.2% - Canlin Resources Partnership; 2.9% - Canadian Natural Resources Limited; 3.2% - Boulder Energy Ltd.; 2.6% - Baytex Energy Ltd.; 0.7% - Canadian Natural Resources; 0.1% - Tourmaline Oil Corp.; 0.1% - Vermilion Energy Inc.,1984-01-01,53.0414,-115.96101,10-10-047-14W5M
 ABGP0001459,Reclamation Certified,Conoco Claresholm,GP,Claresholm,Canadian Natural Resources Limited,100.0% - Conocophillips Canada Resources Corp.,,50.02474,-113.40474,06-30-012-25W4M
-ABGP0001460,Suspended,* Kan Energy Gleichen,GP,Kan Energy Gleichen,Kanamera Texas Sentry Operating Partnership.,100.0% - Lynx Energy Ulc,,50.83619,-112.79454,04-01-022-21W4M
+ABGP0001460,Suspended,Kan Energy Gleichen,GP,Kan Energy Gleichen,Kanamera Texas Sentry Operating Partnership.,100.0% - Lynx Energy Ulc,,50.83619,-112.79454,04-01-022-21W4M
 ABGP0001461,Suspended,Paramount Legend,GP,Liege,Athabasca Oil Corporation,100.0% - Athabasca Oil Corporation,1964-01-01,57.20067,-112.90001,12-31-094-18W4M
 ABGP0001462,Abandoned,Amoco Bigstone Dunvegan,GP,Bigstone Dunvegan,Bp Canada Energy Group Ulc,100.0% - Paramount Resources Ltd.,,54.2595,-117.21683,06-10-061-22W5M
 ABGP0001463,Active,Westrock Pouce Coupe South,GP,Pouce Coupe South,Longshore Resources Ltd.,99.3% - Longshore Resources Ltd.; 0.7% - Freehold Resources Ltd.,1985-01-01,55.77223,-119.82001,07-20-078-12W6M
@@ -457,41 +457,41 @@ ABGP0001465,Abandoned,Baytex Kneller,GP,Kneller,Baytex Energy Ltd.,100.0% - Alph
 ABGP0001466,Suspended,Husky Rumsey 8-36,GP,Rumsey,Trident Exploration (Alberta) Corp.,100.0% - Westdrum Energy Ltd.,,51.87268,-112.84273,08-36-033-21W4M
 ABGP0001467,Suspended,Surge Willesden Gr 08-29-040-06W5 Gp,GP,Willesden Green,Surge Energy Inc.,100.0% - Surge Energy Inc.,1982-01-01,52.47052,-114.82035,08-29-040-06W5M
 ABGP0001468,Active,Mundare 09-28-053-18W4 Gas Plant,GP,Mundare,Axiom Oil And Gas Inc.,100.0% - Axiom Oil And Gas Inc.,1980-01-01,53.60896,-112.58547,09-28-053-18W4M
-ABGP0001469,Suspended,* Crestar Bantry,GP,Crestar Bantry,Strathcona Resources Ltd.,100.0% - Cardinal Energy Ltd.,,50.54091,-111.79457,16-24-018-14W4M
-ABGP0001470,Suspended,* Norcen Fort Sask,GP,Norcen Fort Sask,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.71781,-113.1769,01-03-055-22W4M
-ABGP0001471,Suspended,* Aec Suffield,GP,Aec Suffield,Ipc Canada Ltd.,100.0% - Ipc Canada Ltd.,,50.57398,-111.17874,04-03-019-09W4M
+ABGP0001469,Suspended,Crestar Bantry,GP,Crestar Bantry,Strathcona Resources Ltd.,100.0% - Cardinal Energy Ltd.,,50.54091,-111.79457,16-24-018-14W4M
+ABGP0001470,Suspended,Norcen Fort Sask,GP,Norcen Fort Sask,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.71781,-113.1769,01-03-055-22W4M
+ABGP0001471,Suspended,Aec Suffield,GP,Aec Suffield,Ipc Canada Ltd.,100.0% - Ipc Canada Ltd.,,50.57398,-111.17874,04-03-019-09W4M
 ABGP0001472,Active,Nipisi 2-11-80-8W5,GP,Nipisi,Canadian Natural Resources Limited,90.0% - Canadian Natural Resources Limited; 0.0% - Superman Resources Inc.,,55.91441,-115.13273,02-11-080-08W5M
 ABGP0001473,Abandoned,Provost 15-7-36-15W4,GP,Provost,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.08288,-112.1329,15-07-036-15W4M
 ABGP0001474,Abandoned,Crestar Rumsey,GP,Crestar Rumsey,Conocophillips Canada Energy Partnership,100.0% - Pine Cliff Energy Ltd.,,51.9018,-112.84273,08-12-034-21W4M
 ABGP0001475,Active,Crestar Jenner,GP,Jenner,Cor4 Oil Corp.,4.6% - Enermark Inc.; 1.4% - Canoil Inc.; 93.9% - Cor4 Oil Corp.,,50.65412,-111.16728,10-34-019-09W4M
 ABGP0001476,Suspended,Apache Willesden Green,GP,Bingley,Bonavista Energy Corporation,100.0% - Bonavista Energy Corporation,1983-01-01,52.48129,-114.87421,02-36-040-07W5M
 ABGP0001477,Active,Apache Willesden Green,GP,Leafland,Paramount Resources Ltd.,69.5% - Paramount Resources Ltd.; 17.4% - Obsidian Energy Ltd.; 11.8% - Signalta Resources Limited,1985-01-01,52.40485,-114.70654,15-31-039-05W5M
-ABGP0001478,Suspended,* Imperial Injection,GP,Injection,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.04881,-113.91788,03-17-047-27W4M
+ABGP0001478,Suspended,Imperial Injection,GP,Injection,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.04881,-113.91788,03-17-047-27W4M
 ABGP0001479,Suspended,Pengrowth Swan Hills,GP,Swan Hills,Accel Canada Holdings Limited,100.0% - Canadian Natural Resources Limited,,54.79431,-115.51708,03-18-067-10W5M
 ABGP0001480,Active,Eyremore 1-18-17-18W4,GP,Armada,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,50.42844,-112.45886,01-18-017-18W4M
-ABGP0001481,Suspended,* Chauvco Nosehill,GP,Chauvco Nosehill,Taqa North Ltd.,100.0% - Taqa North Ltd.,,53.76832,-116.96498,11-19-055-20W5M
+ABGP0001481,Suspended,Chauvco Nosehill,GP,Chauvco Nosehill,Taqa North Ltd.,100.0% - Taqa North Ltd.,,53.76832,-116.96498,11-19-055-20W5M
 ABGP0001482,Active,Brc 04-31-048-12W5 Gas Plant,GP,Brazeau River,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,1979-01-01,53.17965,-115.7536,04-31-048-12W5M
 ABGP0001483,Suspended,Husky Michichi 16-32,GP,Michichi,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,51.61792,-112.35224,16-32-030-17W4M
 ABGP0001484,Abandoned,Baptiste 1-18-68-23W4,GP,Island Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.8804,-113.49181,01-18-068-23W4M
 ABGP0001485,Abandoned,Morinville 11-15-55-25W4,GP,Morinville,Canadian Natural Resources Limited,100.0% - Signalta Resources Limited,,53.75449,-113.63554,11-15-055-25W4M
 ABGP0001486,Suspended,Ketch Tangent,GP,Tangent,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,1984-01-01,55.96887,-117.57362,13-29-080-23W5M
 ABGP0001487,Abandoned,Enron Sangudo,GP,Enron Sangudo,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.88422,-114.87291,09-31-056-06W5M
-ABGP0001488,Abandoned,* Talisman Turner Valley,GP,Turner Valley,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,50.59553,-114.14899,10-12-019-02W5M
-ABGP0001489,Suspended,* Amoco Hotchkiss,GP,Hotchkiss,Bp Canada Energy Group Ulc,100.0% - Surge Energy Inc.,,57.12468,-118.15147,06-06-094-01W6M
+ABGP0001488,Abandoned,Talisman Turner Valley,GP,Turner Valley,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,50.59553,-114.14899,10-12-019-02W5M
+ABGP0001489,Suspended,Amoco Hotchkiss,GP,Hotchkiss,Bp Canada Energy Group Ulc,100.0% - Surge Energy Inc.,,57.12468,-118.15147,06-06-094-01W6M
 ABGP0001490,Suspended,Blackspur Bantry Gp 15-23-018-14W4,GP,Delta Bantry,Delta Consultants (1973) Ltd.,100.0% - Blackspur Oil Corp.,,50.54105,-111.82294,15-23-018-14W4M
-ABGP0001491,Suspended,* Avord Chauvin S,GP,Avord Chauvin S,Avord Oil & Gas Ltd,100.0% - Surge Energy Inc.,,52.66163,-110.182,10-35-042-02W4M
-ABGP0001492,Suspended,* Mobil Twining,GP,Twining,Bumper Development Corporation Ltd.,100.0% - Barnwell Of Canada  Limited,,51.6761,-113.36228,16-20-031-24W4M
-ABGP0001493,Abandoned,* Anderson Rycroft,GP,Anderson Rycroft,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,55.61239,-118.58545,06-29-076-04W6M
+ABGP0001491,Suspended,Avord Chauvin S,GP,Avord Chauvin S,Avord Oil & Gas Ltd,100.0% - Surge Energy Inc.,,52.66163,-110.182,10-35-042-02W4M
+ABGP0001492,Suspended,Mobil Twining,GP,Twining,Bumper Development Corporation Ltd.,100.0% - Barnwell Of Canada  Limited,,51.6761,-113.36228,16-20-031-24W4M
+ABGP0001493,Abandoned,Anderson Rycroft,GP,Anderson Rycroft,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,55.61239,-118.58545,06-29-076-04W6M
 ABGP0001494,Suspended,Cabre Joarcam,GP,Joarcam,Enerplus Corporation,100.0% - Enerplus Corporation,,53.20153,-112.99202,11-03-049-21W4M
 ABGP0001495,Suspended,Signalta Pembina,GP,Lobstick 2,Signalta Resources Limited,100.0% - Signalta Resources Limited,,53.35794,-114.89448,06-36-050-07W5M
-ABGP0001496,Suspended,* Altex Sullivan Lake,GP,Altex Sullivan Lake,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,52.02841,-111.84126,01-30-035-13W4M
+ABGP0001496,Suspended,Altex Sullivan Lake,GP,Altex Sullivan Lake,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,52.02841,-111.84126,01-30-035-13W4M
 ABGP0001497,Active,Medlodge 10-33-052-21W5 Gp,GP,Medicine Lodge,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,1989-01-01,53.53564,-117.03241,10-33-052-21W5M
 ABGP0001498,Reclamation Certified,Bonavista Benton,GP,Benton,Nuvista Energy Ltd.,100.0% - Nuvista Energy Ltd.,,51.42525,-110.36546,10-28-028-03W4M
 ABGP0001499,Active,Cypress Farrow,GP,Farrow,Taqa North Ltd.,68.0% - Taqa North Ltd.; 32.0% - Coastal Resources Limited,1984-01-01,50.73791,-113.32012,06-31-020-24W4M
-ABGP0001500,Abandoned,* Grad & Walker Huxley,GP,Grad And Walker Huxley,Conocophillips Canada Energy Partnership,100.0% - Pine Cliff Energy Ltd.,,51.97395,-113.41853,07-06-035-24W4M
+ABGP0001500,Abandoned,Grad & Walker Huxley,GP,Grad And Walker Huxley,Conocophillips Canada Energy Partnership,100.0% - Pine Cliff Energy Ltd.,,51.97395,-113.41853,07-06-035-24W4M
 ABGP0001501,Abandoned,Malmo 6-3-44-22W4,GP,Malmo,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.76159,-113.11517,06-03-044-22W4M
-ABGP0001502,Reclamation Certified,* Triton Kneller,GP,Triton Kneller,Primewest Energy Inc.,100.0% - Altagas Ltd.,,53.24863,-113.2844,14-22-049-23W4M
-ABGP0001503,Suspended,* Poco Watts,GP,Poco Watts,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,51.62177,-112.06911,02-04-031-15W4M
+ABGP0001502,Reclamation Certified,Triton Kneller,GP,Triton Kneller,Primewest Energy Inc.,100.0% - Altagas Ltd.,,53.24863,-113.2844,14-22-049-23W4M
+ABGP0001503,Suspended,Poco Watts,GP,Poco Watts,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,51.62177,-112.06911,02-04-031-15W4M
 ABGP0001504,Suspended,Apl Edson,GP,Edson,Canadian Oil & Gas International Inc.,100.0% - Arrow Point Oil & Gas Ltd.,1990-01-01,53.60839,-116.46145,09-29-053-17W5M
 ABGP0001505,Abandoned,Crestar Trochu Twining,GP,Crestar Trochu Twining,Conocophillips Canada Energy Partnership,100.0% - Conocophillips Canada Resources Corp.,,51.78175,-113.26167,04-31-032-23W4M
 ABGP0001506,Active,Progress 1-1-78-10W6,GP,Progress,Canadian Natural Resources Limited,50.0% - Canadian Natural Resources Limited,1984-01-01,55.72513,-119.39986,01-01-078-10W6M
@@ -500,7 +500,7 @@ ABGP0001508,Suspended,Beau Alderson,GP,Beau Alderson,Murphy Oil Company Ltd.,100
 ABGP0001509,Suspended,Grand Forks 8-7-12-13W4,GP,Grand Forks,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,49.98059,-111.75891,08-07-012-13W4M
 ABGP0001510,Abandoned,Altagas Killam,GP,Sedgewick,Altagas Ltd.,100.0% - Altagas Ltd.,1982-01-01,52.55599,-111.79515,06-27-041-13W4M
 ABGP0001511,Active,Edson West 1-24-52-20W5,GP,Edson West,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1985-01-01,53.4993,-116.80532,01-24-052-20W5M
-ABGP0001512,Abandoned,* Bow Valley Bashaw,GP,Bow Valley Bashaw,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,52.51579,-113.2825,11-08-041-23W4M
+ABGP0001512,Abandoned,Bow Valley Bashaw,GP,Bow Valley Bashaw,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,52.51579,-113.2825,11-08-041-23W4M
 ABGP0001513,Suspended,Apache Nevis,GP,Nevis,Ember Resources Inc.,100.0% - Ember Resources Inc.,,52.38137,-113.17468,08-25-039-23W4M
 ABGP0001514,Abandoned,Cardiff 16-15-54-02W5,GP,Cardiff,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,53.67027,-114.20138,16-15-054-02W5M
 ABGP0001515,Suspended,Kaybob 7-32-63-20W5,GP,Kaybob,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.49252,-116.98482,07-32-063-20W5M
@@ -514,19 +514,19 @@ ABGP0001522,Suspended,Hamburg 12-29-096-11W6,GP,Hamburg,Canadian Natural Resourc
 ABGP0001523,Suspended,Endiang Gas Plant,GP,Provost,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,52.05376,-112.1508,16-36-035-16W4M
 ABGP0001524,Active,Mcleod River 16-36 Gas Plant,GP,Mcleod River,Velvet Energy Ltd.,55.1% - Velvet Energy Ltd.; 44.9% - Ish Energy Ltd.,,53.80102,-116.08598,16-36-055-15W5M
 ABGP0001525,Active,Journey Pembina Berrymoor,GP,Genesee,Journey Energy Inc.,30.1% - Chinook Energy Inc.; 69.9% - Journey Energy Inc.,1981-01-01,53.256,-114.43724,05-30-049-03W5M
-ABGP0001526,Suspended,* Poco Sullivan Lake,GP,Poco Sullivan Lake,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,51.99549,-111.84716,15-07-035-13W4M
+ABGP0001526,Suspended,Poco Sullivan Lake,GP,Poco Sullivan Lake,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,51.99549,-111.84716,15-07-035-13W4M
 ABGP0001527,Active,Sylvan 05-01-039-01W5 Gas Plant,GP,Sylvan Lake,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,1986-01-01,52.32503,-114.02264,05-01-039-01W5M
-ABGP0001528,Suspended,* Poco Michichi,GP,Poco Michichi,Conocophillips Canada Resources Corp.,100.0% - Canadian Natural Resources Limited,,51.63269,-112.2994,16-02-031-17W4M
-ABGP0001529,Suspended,* Encal Sinclair,GP,Encal Sinclair,Taqa North Ltd.,100.0% - Taqa North Ltd.,,55.23066,-119.72758,02-14-072-12W6M
+ABGP0001528,Suspended,Poco Michichi,GP,Poco Michichi,Conocophillips Canada Resources Corp.,100.0% - Canadian Natural Resources Limited,,51.63269,-112.2994,16-02-031-17W4M
+ABGP0001529,Suspended,Encal Sinclair,GP,Encal Sinclair,Taqa North Ltd.,100.0% - Taqa North Ltd.,,55.23066,-119.72758,02-14-072-12W6M
 ABGP0001530,Active,Border Midstream Mazeppa,GP,Mazeppa,Lexin Resources Ltd.,100.0% - Lexin Resources Ltd.,1986-01-01,50.64675,-113.77029,01-35-019-28W4M
 ABGP0001531,Active,Marathon Kakwa,GP,Kakwa,Husky Oil Operations Limited,42.0% - Husky Oil Operations Limited; 37.0% - Imperial Oil Limited,1980-01-01,54.43794,-118.73967,10-07-063-05W6M
 ABGP0001532,Suspended,Hadrian Berry,GP,Berry,Bonavista Energy Corporation,100.0% - Bonavista Energy Corporation,,51.41418,-111.76606,16-21-028-13W4M
-ABGP0001533,Suspended,* Ish Energy Mcleod,GP,Mcleod,Amber Energy Inc.,100.0% - Amber Energy Inc.,,53.75753,-116.03613,16-17-055-14W5M
+ABGP0001533,Suspended,Ish Energy Mcleod,GP,Mcleod,Amber Energy Inc.,100.0% - Amber Energy Inc.,,53.75753,-116.03613,16-17-055-14W5M
 ABGP0001534,Active,Glencoe Chigwell,GP,Morningside,Alphabow Energy Ltd.,100.0% - Alphabow Energy Ltd.,1986-01-01,52.62142,-113.61825,14-13-042-26W4M
 ABGP0001535,Suspended,Majorville 4-31-18-19W4,GP,Majorville,Canadian Natural Resources Limited,40.0% - Canadian Natural Resources Limited; 20.0% - Husky Oil Operations Limited; 40.0% - Harvest Operations Corp.,,50.55929,-112.6132,04-31-018-19W4M
 ABGP0001536,Active,Manola 11-18-059-02W5 Gas Plant,GP,Manola,Axiom Oil And Gas Inc.,100.0% - Axiom Oil And Gas Inc.,1996-01-01,54.10314,-114.29243,11-18-059-02W5M
 ABGP0001537,Active,Star Pouce Coupe,GP,Pouce Coupe,Arc Resources Ltd.,50.0% - Arc Resources Ltd.; 50.0% - Canadian Natural Resources Limited,,55.8925,-119.79141,11-34-079-12W6M
-ABGP0001538,Suspended,* Energy Processors Phoenix,GP,Energy Processors Phoenix,Energy Processors Leasing Ltd.,100.0% - Baytex Energy Ltd.,,52.36856,-115.37771,07-21-039-10W5M
+ABGP0001538,Suspended,Energy Processors Phoenix,GP,Energy Processors Phoenix,Energy Processors Leasing Ltd.,100.0% - Baytex Energy Ltd.,,52.36856,-115.37771,07-21-039-10W5M
 ABGP0001539,Suspended,Husky Oil Provost 6-27 (Rescinded),GP,Provost,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,52.46858,-110.93159,06-27-040-07W4M
 ABGP0001540,Abandoned,Bonavista Chigwell,GP,Chigwell,Signalta Resources Limited,100.0% - Signalta Resources Limited,,52.574,-113.45036,11-31-041-24W4M
 ABGP0001541,Active,D Energy Craigmyle Michi 13-28-31-16,GP,Craigmyle East,Prairie Provident Resources Canada Ltd.,100.0% - Prairie Provident Resources Canada Ltd.,1985-01-01,51.69091,-112.22251,13-28-031-16W4M
@@ -540,23 +540,23 @@ ABGP0001548,Suspended,Knopcik 16-21 Gas Plant,GP,Acheson,Repsol Oil & Gas Canada
 ABGP0001549,Active,Bonnie Glen 09-19-043-25W4 Gas Plant,GP,Bonnie Glen,Axiom Oil And Gas Inc.,100.0% - Axiom Oil And Gas Inc.,1986-01-01,52.72147,-113.61093,09-19-043-25W4M
 ABGP0001550,Suspended,Devon Pouce Coupe,GP,Bonanza,Birchcliff Energy Ltd.,100.0% - Birchcliff Energy Ltd.,1987-01-01,55.91796,-119.83718,07-08-080-12W6M
 ABGP0001551,Abandoned,Triquest Leige,GP,Triquest Leige,Bonavista Energy Corporation,100.0% - Bonavista Energy Corporation,,56.80435,-113.15219,07-17-090-20W4M
-ABGP0001552,Suspended,* Paramount Liege,GP,Liege,Paramount Resources Ltd.,100.0% - Paramount Resources Ltd.,,56.84063,-113.01927,15-30-090-19W4M
+ABGP0001552,Suspended,Paramount Liege,GP,Liege,Paramount Resources Ltd.,100.0% - Paramount Resources Ltd.,,56.84063,-113.01927,15-30-090-19W4M
 ABGP0001553,Suspended,Talisman Sundance,GP,Sundance,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.7065,-116.95254,08-36-054-21W5M
-ABGP0001554,Suspended,* Amoco Bigoray,GP,Bigoray,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,53.48139,-115.12835,13-09-052-08W5M
+ABGP0001554,Suspended,Amoco Bigoray,GP,Bigoray,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,53.48139,-115.12835,13-09-052-08W5M
 ABGP0001555,Suspended,Crestar Elnora,GP,Crestar Elnora,Pine Cliff Energy Ltd.,100.0% - Pine Cliff Energy Ltd.,,51.94224,-113.23806,04-29-034-23W4M
 ABGP0001556,Active,Pancdn Halkirk,GP,Halkirk,Logic Energy Ltd.,100.0% - Logic Energy Ltd.,1986-01-01,52.21759,-112.3055,03-36-037-17W4M
-ABGP0001557,Suspended,* Star Pouce Coupe,GP,Star Pouce Coupe,Rising Star Resources Ltd.,100.0% - Rising Star Resources Ltd.,,55.8744,-119.71321,06-30-079-11W6M
+ABGP0001557,Suspended,Star Pouce Coupe,GP,Star Pouce Coupe,Rising Star Resources Ltd.,100.0% - Rising Star Resources Ltd.,,55.8744,-119.71321,06-30-079-11W6M
 ABGP0001558,Abandoned,Crestar Crossfield,GP,Crestar Crossfield,Conocophillips Canada Energy Partnership,100.0% - Conocophillips Canada Resources Corp.,,51.48385,-114.32094,11-14-029-03W5M
 ABGP0001559,Suspended,Crestar Crossfield,GP,Crossfield,Bonavista Energy Corporation,100.0% - Bonavista Energy Corporation,,51.53483,-114.32674,04-02-030-03W5M
 ABGP0001560,Active,Bonavista Spirit River,GP,Spirit River,Rising Star Resources Ltd.,50.0% - Rising Star Resources Ltd.,1988-01-01,55.71391,-118.83107,08-34-077-06W6M
 ABGP0001561,Suspended,Mcleod 16-12-56-14W5,GP,Mcleod River,Cenovus Energy Inc.,43.8% - Ish Energy Ltd.,,53.83016,-115.9371,16-12-056-14W5M
 ABGP0001562,Active,Kaybob S. 11-19-60-19W5,GP,Pass Creek,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,54.20493,-116.84195,11-19-060-19W5M
 ABGP0001563,Suspended,Talisman Edson,GP,Edson,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.65565,-116.78081,16-07-054-19W5M
-ABGP0001564,Abandoned,* Sabre Brazeau River,GP,Sabre Brazeau River,Sabre Energy Ltd.,100.0% - Boulder Energy Ltd.,,53.0089,-115.97494,06-33-046-14W5M
+ABGP0001564,Abandoned,Sabre Brazeau River,GP,Sabre Brazeau River,Sabre Energy Ltd.,100.0% - Boulder Energy Ltd.,,53.0089,-115.97494,06-33-046-14W5M
 ABGP0001565,Suspended,Shiningbank Niton,GP,Niton,Taqa North Ltd.,100.0% - Taqa North Ltd.,1987-01-01,53.69211,-115.71228,06-28-054-12W5M
 ABGP0001566,Active,Leedale 9-21 Gas Plant,GP,Leedale West,I3 Energy Canada Ltd.,100.0% - I3 Energy Canada Ltd.,1986-01-01,52.72188,-114.51231,09-21-043-04W5M
 ABGP0001567,Suspended,Sundance 03-29-054-19W5,GP,Sundance,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1986-01-01,53.68848,-116.76856,03-29-054-19W5M
-ABGP0001568,Suspended,* Placer Cego Elnora,GP,Placer Cego Elnora,Conocophillips Canada Resources Corp.,100.0% - Trident Exploration (Alberta) Corp.,,51.92366,-113.02546,13-14-034-22W4M
+ABGP0001568,Suspended,Placer Cego Elnora,GP,Placer Cego Elnora,Conocophillips Canada Resources Corp.,100.0% - Trident Exploration (Alberta) Corp.,,51.92366,-113.02546,13-14-034-22W4M
 ABGP0001569,Abandoned,Crystal 15-35-46-3W5,GP,Crystal,Response Energy Corporation,100.0% - Response Energy Corporation,,53.01599,-114.32487,15-35-046-03W5M
 ABGP0001570,Active,Ember Kelsey,GP,Kelsey,Ember Resources Inc.,100.0% - Ember Resources Inc.,,52.7907,-112.48632,06-13-044-18W4M
 ABGP0001571,Active,Bonavista Rycroft Sys 2,GP,Rycroft,Rising Star Resources Ltd.,56.0% - Rising Star Resources Ltd.,1987-01-01,55.6995,-118.77933,08-25-077-06W6M
@@ -582,15 +582,15 @@ ABGP0001590,Active,Bigstone 1-17-26-10W4,GP,Big Stone,Canadian Natural Resources
 ABGP0001591,Abandoned,Meyer 12-2-70-25W4,GP,Meyer Lake South,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1986-01-01,55.03308,-113.71382,12-02-070-25W4M
 ABGP0001592,Active,Burlington Garrington,GP,Garrington,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,1989-01-01,52.18637,-114.73635,13-13-037-06W5M
 ABGP0001593,Suspended,Husky Rumsey 5-35,GP,Rumsey,Westdrum Energy Ltd.,100.0% - Westdrum Energy Ltd.,1988-01-01,51.87268,-112.88377,05-35-033-21W4M
-ABGP0001594,Suspended,* Precambrian Cherhill,GP,Precambrian Cherhill,Enermark Inc.,100.0% - Enermark Inc.,,53.86623,-114.58759,06-30-056-04W5M
+ABGP0001594,Suspended,Precambrian Cherhill,GP,Precambrian Cherhill,Enermark Inc.,100.0% - Enermark Inc.,,53.86623,-114.58759,06-30-056-04W5M
 ABGP0001595,Suspended,Husky Fenn West 3-16,GP,Fenn West,Trident Exploration (Alberta) Corp.,100.0% - 2234873 Alberta Ltd.,,52.08668,-112.94835,03-16-036-21W4M
 ABGP0001596,Abandoned,Samson Rainbow Lake,GP,Basset Lake West,Sanling Energy Ltd.,100.0% - Sanling Energy Ltd.,,58.37453,-119.04307,07-14-108-07W6M
 ABGP0001597,Suspended,Drumheller 4-1-28-18W4,GP,Drumheller East Coulee Plant,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1988-01-01,51.35983,-112.41619,04-01-028-18W4M
 ABGP0001598,Suspended,Pembina 5-35-49-6W5,GP,Berrymoor,Harvest Operations Corp.,100.0% - Spoke Resources Ltd.,,53.27054,-114.7786,05-35-049-06W5M
-ABGP0001599,Suspended,* Paramount Saleski,GP,Paramount Saleski,Sequoia Resources Corp.,100.0% - Sequoia Resources Corp.,,56.49893,-112.85353,08-36-086-19W4M
+ABGP0001599,Suspended,Paramount Saleski,GP,Paramount Saleski,Sequoia Resources Corp.,100.0% - Sequoia Resources Corp.,,56.49893,-112.85353,08-36-086-19W4M
 ABGP0001600,Abandoned,Garden Plains 16-6-32-12W4,GP,Sorenson,Canadian Natural Resources Limited,70.0% - Canadian Natural Resources Limited; 30.0% - Celtic Exploration Ulc,,51.73442,-111.63814,16-09-032-12W4M
-ABGP0001601,Suspended,* Amoco Elspeth Terminal,GP,Elspeth Terminal,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,49.00158,-110.00785,01-01-001-01W4M
-ABGP0001602,Suspended,* Imperial Redwater,GP,Redwater,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.95451,-113.08431,07-29-057-21W4M
+ABGP0001601,Suspended,Amoco Elspeth Terminal,GP,Elspeth Terminal,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001602,Suspended,Imperial Redwater,GP,Redwater,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.95451,-113.08431,07-29-057-21W4M
 ABGP0001603,Suspended,Nce Pembina,GP,Pembina,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,53.09245,-115.41874,01-32-047-10W5M
 ABGP0001604,Abandoned,Viridian Sundance,GP,Viridian Sundance,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,53.68106,-117.01379,11-22-054-21W5M
 ABGP0001605,Suspended,Husky Edson 3-29,GP,Edson,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,53.68848,-116.76856,03-29-054-19W5M
@@ -606,7 +606,7 @@ ABGP0001614,Active,Magin Three Hills Creek,GP,Three Hills Creek,Vantage Point Re
 ABGP0001615,Suspended,Aec Hoole,GP,Hoole North,Ovintiv Canada Ulc,100.0% - Tidewater Midstream And Infrastructure Ltd.,,56.03697,-113.77396,10-24-081-25W4M
 ABGP0001616,Suspended,Burlington Bonanza,GP,Bonanza,Conocophillips Canada Resources Corp.,100.0% - Shoreline Energy Corp.,,56.03793,-119.63486,11-22-081-11W6M
 ABGP0001617,Active,Gilby 01-04-042-03W5 Gas Plant,GP,Gilby,Tidewater Midstream And Infrastructure Ltd.,50.0% - Tidewater Midstream And Infrastructure Ltd.; 38.0% - Mosaic Energy Ltd.; 12.0% - Nal Resources Limited,1988-01-01,52.58331,-114.36471,01-04-042-03W5M
-ABGP0001618,Reclamation Exempt,* Anadarko Burdett,GP,Burdett,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,49.74784,-111.23791,06-24-009-10W4M
+ABGP0001618,Reclamation Exempt,Anadarko Burdett,GP,Burdett,Repsol Oil & Gas Canada Inc.,100.0% - Repsol Oil & Gas Canada Inc.,,49.74784,-111.23791,06-24-009-10W4M
 ABGP0001619,Suspended,Joffre 10-18-38-26W4,GP,Joffre,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,52.26853,-113.70386,10-18-038-26W4M
 ABGP0001620,Active,Pancdn Badger,GP,Badger,Razor Energy Corp.,100.0% - Razor Energy Corp.,,50.36639,-112.33842,13-19-016-17W4M
 ABGP0001621,Abandoned,Burlington Ferrybank,GP,Ferrybank,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,52.92518,-113.82215,12-35-045-27W4M
@@ -624,36 +624,36 @@ ABGP0001632,Abandoned,Apache Provost,GP,Sour Goose,Karve Energy Inc.,100.0% - Ba
 ABGP0001633,Suspended,Claresholm 15-36-12-27W4,GP,Claresholm,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1990-01-01,50.04646,-113.55845,15-36-012-27W4M
 ABGP0001634,Suspended,Gibson Pouce Coupe,GP,Mica,Altagas Ltd.,100.0% - Altagas Ltd.,,55.98713,-119.94802,03-03-081-13W6M
 ABGP0001635,Active,Adanac Tomahawk,GP,Tomahawk,Adanac Oil & Gas Limited,100.0% - Adanac Oil & Gas Limited,,53.52499,-114.87677,14-30-052-06W5M
-ABGP0001636,Abandoned,* Crestar Valhalla,GP,Crestar Valhalla,Conocophillips Canada Energy Partnership,100.0% - Canadian Natural Resources Limited,,55.55782,-119.15409,11-03-076-08W6M
+ABGP0001636,Abandoned,Crestar Valhalla,GP,Crestar Valhalla,Conocophillips Canada Energy Partnership,100.0% - Canadian Natural Resources Limited,,55.55782,-119.15409,11-03-076-08W6M
 ABGP0001637,Suspended,Cabre Joarcam,GP,Joarcam,Enerplus Corporation,100.0% - Enerplus Corporation,,53.24144,-112.97357,05-23-049-21W4M
 ABGP0001638,Abandoned,Atco Campbell-Namao,GP,Carbondale,Atco Energy Solutions Ltd.,100.0% - Atco Energy Solutions Ltd.,1991-01-01,53.72172,-113.58593,06-01-055-25W4M
 ABGP0001639,Suspended,Bonavista Worsley,GP,Worsley,Bonavista Energy Corporation,100.0% - Direct Oil & Gas Inc.,,56.58283,-118.44252,03-32-087-03W6M
-ABGP0001640,Abandoned,* Cabre Mcgregor,GP,Cabre Mcgregor,Enermark Inc.,100.0% - Ipc Canada Ltd.,,50.48666,-112.71082,01-05-018-20W4M
+ABGP0001640,Abandoned,Cabre Mcgregor,GP,Cabre Mcgregor,Enermark Inc.,100.0% - Ipc Canada Ltd.,,50.48666,-112.71082,01-05-018-20W4M
 ABGP0001641,Active,Belloy 16-36-79-3W6,GP,Belloy Northwest,Canadian Natural Resources Limited,1.5% - Arc Resources Ltd.; 3.8% - Barnwell Of Canada  Limited; 0.6% - Chair Resources Inc.; 2.9% - Pengrowth Energy Corporation; 0.3% - Signalta Resources Limited; 4.2% - Taqa North; 86.4% - Canadian Natural Resources Limited,1980-01-01,55.8965,-118.31707,16-36-079-03W6M
 ABGP0001642,Active,Cypress Thorsby,GP,Thorsby 1,Petrus Resources Corp.,100.0% - Petrus Resources Corp.,,53.22696,-114.03539,07-14-049-01W5M
-ABGP0001643,Abandoned,* Shell Caroline,GP,Caroline,Shell Canada Limited,100.0% - Shell Canada Limited,,51.8842,-114.80783,01-05-034-06W5M
+ABGP0001643,Abandoned,Shell Caroline,GP,Caroline,Shell Canada Limited,100.0% - Shell Canada Limited,,51.8842,-114.80783,01-05-034-06W5M
 ABGP0001644,Suspended,Newport Pouce Coupe,GP,Pouce Coupe South,Kelt Exploration Ltd.,62.7% - Kelt Exploration Ltd.,1991-01-01,55.75036,-119.68433,16-07-078-11W6M
 ABGP0001645,Suspended,Belloy 13-16-78-1W6,GP,Belloy,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,55.76511,-118.10054,13-16-078-01W6M
 ABGP0001646,Active,Pembina-Sunnybrook 15-22-48-2W5,GP,Sunnybrook South,Petrus Resources Corp.,100.0% - Petrus Resources Corp.,1990-01-01,53.16136,-114.20602,15-22-048-02W5M
 ABGP0001647,Abandoned,Rife Ferintosh,GP,Ferintosh,Rife Resources Ltd.,65.0% - Rife Resources Ltd.; 35.0% - Baytex Energy Ltd.,1981-01-01,52.77602,-112.90978,08-12-044-21W4M
-ABGP0001648,Suspended,* Blue Range Joffre,GP,Blue Range Joffre,Blue Range Resource Corporation,100.0% - Blue Range Resource Corporation,,52.2359,-113.37683,06-04-038-24W4M
+ABGP0001648,Suspended,Blue Range Joffre,GP,Blue Range Joffre,Blue Range Resource Corporation,100.0% - Blue Range Resource Corporation,,52.2359,-113.37683,06-04-038-24W4M
 ABGP0001649,Active,Cecil 08-15-084-08W6,GP,Cecil,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1990-01-01,56.28201,-119.16432,08-15-084-08W6M
 ABGP0001650,Suspended,Husky Bolloque 16-2,GP,Bolloque,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,,54.59994,-113.66365,16-02-065-25W4M
 ABGP0001651,Active,Alder 10-9-45-8W5,GP,Alder Flats,Cenovus Energy Inc.,9.0% - Taqa North Ltd.; 20.0% - Bellatrix Exploration Ltd.; 70.0% - Cenovus Energy Inc.,1991-01-01,52.86763,-115.0982,10-09-045-08W5M
-ABGP0001652,Suspended,* Deminex Cherhill,GP,Deminex Cherhill,2349507 Canada Inc.,100.0% - 2349507 Canada Inc.,,53.92075,-114.71779,04-17-057-05W5M
+ABGP0001652,Suspended,Deminex Cherhill,GP,Deminex Cherhill,2349507 Canada Inc.,100.0% - 2349507 Canada Inc.,,53.92075,-114.71779,04-17-057-05W5M
 ABGP0001653,Abandoned,Cypress Thorsby,GP,Cypressthorsby,Taqa North Ltd.,100.0% - Petrus Resources Corp.,,53.2123,-113.99118,06-11-049-28W4M
 ABGP0001654,Suspended,Keywest Swalwell 10-15,GP,Swalwell,Taqa North Ltd.,100.0% - Taqa North Ltd.,,51.48342,-113.2955,10-15-029-24W4M
 ABGP0001655,Suspended,Aec Hoole,GP,Wabasca,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,1980-01-01,55.98242,-113.76757,16-36-080-25W4M
 ABGP0001656,Suspended,Atco Riviere,GP,Riviere,Atco Energy Solutions Ltd.,100.0% - Husky Oil Operations Limited,,53.69575,-113.96227,09-30-054-27W4M
 ABGP0001657,Reclamation Certified,Altagas Kneller,GP,Kneller,Altagas Ltd.,100.0% - Altagas Ltd.,,53.24863,-113.2844,14-22-049-23W4M
 ABGP0001658,Abandoned,Gibson Rainbow Lake,GP,Rainbow,Altagas Ltd.,100.0% - Altagas Ltd.,1991-01-01,58.56701,-119.19621,12-24-110-08W6M
-ABGP0001659,Abandoned,* Talisman Ferrier,GP,Ferrier,Repsol Oil & Gas Canada Inc.,100.0% - Enerplus Corporation,,52.39767,-115.11392,07-32-039-08W5M
+ABGP0001659,Abandoned,Talisman Ferrier,GP,Ferrier,Repsol Oil & Gas Canada Inc.,100.0% - Enerplus Corporation,,52.39767,-115.11392,07-32-039-08W5M
 ABGP0001660,Suspended,Regco Oldman,GP,Regco Oldman,Regco Petroleums Ltd.,100.0% - Regco Petroleums Ltd.,,53.8301,-116.99583,13-12-056-21W5M
 ABGP0001661,Active,Hamburg North 11-14-97-11W6,GP,Hamburg 11-14,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1992-01-01,57.41901,-119.67,11-14-097-11W6M
 ABGP0001662,Active,Shell Caroline,GP,Caroline Complex,Pieridae Alberta Production Ltd.,14.4% - Husky Oil (Alberta) Ltd; 8.2% - Harvest Operations Corp.; 3.1% - Devon Energy Canada Corporation; 0.2% - Clearview Resources Ltd.; 0.1% - Bonavista Energy Corporation; 73.9% - Shell Canada Limited,1992-01-01,51.96409,-114.75452,12-35-034-06W5M
 ABGP0001663,Active,Pancdn Countess,GP,Rosemary,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,,50.79585,-112.01577,08-21-021-15W4M
 ABGP0001664,Active,Keyspan Worsley,GP,Worsley,Direct Oil & Gas Inc.,100.0% - Direct Oil & Gas Inc.,1992-01-01,56.561,-119.02862,11-22-087-07W6M
-ABGP0001665,Abandoned,* Crestar Long Coulee,GP,Crestar Long Coulee,Conocophillips Canada Energy Partnership,100.0% - Surge Energy Inc.,,50.19896,-113.01019,08-25-014-23W4M
+ABGP0001665,Abandoned,Crestar Long Coulee,GP,Crestar Long Coulee,Conocophillips Canada Energy Partnership,100.0% - Surge Energy Inc.,,50.19896,-113.01019,08-25-014-23W4M
 ABGP0001666,Active,Cecilia 14-36-57-23W5,GP,Cecilia,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,53.97558,-117.28705,14-36-057-23W5M
 ABGP0001667,Suspended,Shane Gas Plant,GP,Shane Gas Plant,Repsol Oil & Gas Canada Inc.,100.0% - Hanna Oil & Gas Company - Canada Ulc,,55.7577,-118.29484,07-18-078-02W6M
 ABGP0001668,Active,Spectra Gordondale East Gas Plant,GP,Gordondale East,Northriver Midstream Inc.,100.0% - Northriver Midstream Inc.,1991-01-01,55.87804,-119.29542,11-26-079-09W6M
@@ -727,7 +727,7 @@ ABGP0001746,Active,Spectra Pouce Coupe 5-23 Gas Plant,GP,Pouce Coupe,Northriver 
 ABGP0001747,Active,Pengrowth Brent 5-11 Gas Plant,GP,Brent,Alphabow Energy Ltd.,100.0% - Alphabow Energy Ltd.,1999-01-01,51.90176,-111.60852,05-11-034-12W4M
 ABGP0001748,Suspended,Crooked Lake 6-5-63-22W5,GP,Crooked Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1999-01-01,54.41986,-117.29377,06-05-063-22W5M
 ABGP0001749,Suspended,Northrock Girouxville 12-28,GP,Girouxville East,Taqa North Ltd.,100.0% - Long Run Exploration Ltd.,1999-01-01,55.61599,-117.36081,12-28-076-22W5M
-ABGP0001750,Suspended,* Imperial Injection,GP,Imperial Injection,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.04881,-113.91788,03-17-047-27W4M
+ABGP0001750,Suspended,Imperial Injection,GP,Imperial Injection,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,53.04881,-113.91788,03-17-047-27W4M
 ABGP0001751,Active,Deanne 03-06-039-11W5,GP,Strachan Deanne,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,1999-01-01,52.32115,-115.57545,03-06-039-11W5M
 ABGP0001752,Suspended,Falher 4-21-78-23W5,GP,Falher,Long Run Exploration Ltd.,100.0% - Long Run Exploration Ltd.,,55.76863,-117.51574,04-21-078-23W5M
 ABGP0001753,Active,Husky Steele Bolloque 4-26,GP,Steel Bolloque,Sequoia Resources Corp.,100.0% - Sequoia Resources Corp.,1987-01-01,54.56002,-113.83349,04-26-064-26W4M
@@ -779,13 +779,13 @@ ABGP0001800,Active,Aec Suffeild A2 Solution Gas Plant Facility 16-15,GP,Suffield
 ABGP0001801,Suspended,Devon Elmworth 4-8,GP,Wapiti Deep Cut,Canadian Natural Resources Limited,28.5% - Devon Canada Corporation; 34.9% - Canadian Natural Resources Limited; 25.5% - Conocophillips Canada (Brc) Ltd.; 3.1% - Enermark Inc.; 0.7% - Husky Oil Operations Limited; 0.7% - Petro-Canada; 6.7% - Talisman Energy Inc.,1985-01-01,54.95425,-119.19223,04-08-069-08W6M
 ABGP0001802,Suspended,Elmworth 4-8-70-11W6,GP,Elmworth Deep Cut,Cenovus Energy Inc.,87.0% - Conocophillips Canada Resources Corp.,1978-01-01,55.0415,-119.63099,01-08-070-11W6M
 ABGP0001803,Suspended,Pengrowth Judy Creek,GP,Judy Creek Ethane Stripping Plant,Accel Canada Holdings Limited,43.1% - Conifer Energy Inc.,1985-01-01,54.57231,-115.52295,15-25-064-11W5M
-ABGP0001804,Suspended,* Shell Waterton,GP,Shell Waterton,Shell Canada Limited,100.0% - Shell Canada Limited,,49.30728,-113.99976,02-20-004-30W4M
+ABGP0001804,Suspended,Shell Waterton,GP,Shell Waterton,Shell Canada Limited,100.0% - Shell Canada Limited,,49.30728,-113.99976,02-20-004-30W4M
 ABGP0001805,Suspended,Crestar Wembley Expander,GP,Wembley Ethane Stripping,Cenovus Energy Inc.,100.0% - Conocophillips Canada Resources Corp.,,55.33594,-119.22119,06-19-073-08W6M
 ABGP0001806,Suspended,Chevron Kaybob,GP,Chevron Kaybob,Bp Canada Energy Group Ulc,100.0% - Energy Transfer Canada Ulc,,54.09609,-116.61698,03-15-059-18W5M
-ABGP0001807,Suspended,* Conoco Peco,GP,Peco,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,53.20152,-116.21667,12-01-049-16W5M
-ABGP0001808,Suspended,* Chevron Brazeau River,GP,Chevron Brazeau River,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,,53.19052,-115.63812,16-35-048-12W5M
-ABGP0001809,Suspended,* Amoco Ellerslie,GP,Amoco Ellerslie,Bp Canada Energy Group Ulc,100.0% - Altagas Ltd.,,53.4559,-113.48868,04-04-052-24W4M
-ABGP0001810,Abandoned,* Chevron Acheson,GP,Chevron Acheson,Chevron Canada Limited,100.0% - Tidewater Midstream And Infrastructure Ltd.,,53.54673,-113.73491,05-02-053-26W4M
+ABGP0001807,Suspended,Conoco Peco,GP,Peco,Cenovus Energy Inc.,100.0% - Cenovus Energy Inc.,,53.20152,-116.21667,12-01-049-16W5M
+ABGP0001808,Suspended,Chevron Brazeau River,GP,Chevron Brazeau River,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,,53.19052,-115.63812,16-35-048-12W5M
+ABGP0001809,Suspended,Amoco Ellerslie,GP,Amoco Ellerslie,Bp Canada Energy Group Ulc,100.0% - Altagas Ltd.,,53.4559,-113.48868,04-04-052-24W4M
+ABGP0001810,Abandoned,Chevron Acheson,GP,Chevron Acheson,Chevron Canada Limited,100.0% - Tidewater Midstream And Infrastructure Ltd.,,53.54673,-113.73491,05-02-053-26W4M
 ABGP0001811,Suspended,Solex Harmattan-Elkton,GP,Solex Harmattan-Elkton,Taylor Processing Inc.,100.0% - Altagas Ltd.,,51.68774,-114.47718,09-27-031-04W5M
 ABGP0001831,Suspended,Husky Boyer Haig River Steen 01-17,GP,Haig River,Husky Oil Operations Limited,100.0% - Husky Oil Operations Limited,1980-01-01,58.10967,-118.11463,01-17-105-01W6M
 ABGP0001832,Suspended,Dawson 8-26-79-16W5,GP,Dawson,Canadian Natural Resources Limited,76.9% - Canadian Natural Resources Limited,2001-01-01,55.8746,-116.37949,08-26-079-16W5M
@@ -811,7 +811,7 @@ ABGP0001852,Suspended,Berkley Puskwaskau,GP,Berkley Puskwaskau,Canadian Natural 
 ABGP0001853,Active,Bigstone Plant 100/14-28-059-22W5 Gp,GP,Bigstone,Repsol Oil & Gas Canada Inc.,64.2% - Repsol Oil & Gas Canada Inc.; 26.4% - Distinction Energy Corp.; 7.9% - Conocophillips Canada Limited; 1.5% - Canadian Natural Resources Limited,1996-01-01,54.1359,-117.24181,14-28-059-22W5M
 ABGP0001854,Active,Trilogy Two Creek,GP,Two Creeks,Paramount Resources Ltd.,100.0% - Paramount Resources Ltd.,1996-01-01,54.41981,-116.35464,07-04-063-16W5M
 ABGP0001855,Active,Seal 09-15-084-14W5 Gas Plant,GP,Slave,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,,56.28473,-116.11304,09-15-084-14W5M
-ABGP0001856,Suspended,* Pancdn Provost-David,GP,Provost-David,Cenovus Energy Inc.,100.0% - West Lake Energy Corp.,,52.42486,-110.36801,08-09-040-03W4M
+ABGP0001856,Suspended,Pancdn Provost-David,GP,Provost-David,Cenovus Energy Inc.,100.0% - West Lake Energy Corp.,,52.42486,-110.36801,08-09-040-03W4M
 ABGP0001857,Active,Renaissance Blood North 16-35,GP,Blood North,Tamarack Acquisition Corp.,100.0% - Tamarack Acquisition Corp.,1994-01-01,49.52128,-112.85553,16-35-006-22W4M
 ABGP0001858,Active,Wildriver 10-20-56-23W5 Gp,GP,Wild River,Repsol Oil & Gas Canada Inc.,84.0% - Repsol Oil & Gas Canada Inc.; 16.0% - Canadian Natural Resources Limited,1994-01-01,53.8556,-117.38009,10-20-056-23W5M
 ABGP0001859,Active,Hillsdown 13-4-37-25W4,GP,Hillsdown,Canadian Natural Resources Limited,98.0% - Canadian Natural Resources Limited; 2.0% - Apex Energy (Canada) Inc.,1981-01-01,52.15576,-113.5253,13-04-037-25W4M
@@ -822,7 +822,7 @@ ABGP0001863,Suspended,Valhalla 1-3-77-7W6,GP,Saddle Hills,Canadian Natural Resou
 ABGP0001864,Active,Pancdn Cavalier,GP,Cavalier,Lynx Energy Ulc,100.0% - Lynx Energy Ulc,1994-01-01,51.00682,-113.17071,16-32-023-23W4M
 ABGP0001865,Abandoned,Anderson Woking,GP,Anderson Woking,Canadian Natural Resources Limited,100.0% - Devon Canada Corporation,,55.48864,-118.54674,16-09-075-04W6M
 ABGP0001866,Suspended,Godin 15-19-81-1W5,GP,Godin Lake,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,56.04153,-114.14176,15-19-081-01W5M
-ABGP0001867,Suspended,* Serenpet Cranberry,GP,Serenpet Cranberry,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,57.27006,-118.55263,07-27-095-04W6M
+ABGP0001867,Suspended,Serenpet Cranberry,GP,Serenpet Cranberry,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,57.27006,-118.55263,07-27-095-04W6M
 ABGP0001868,Active,Kaiser Negus,GP,Negus,Distinction Energy Corp.,100.0% - Distinction Energy Corp.,1995-01-01,54.16137,-117.66668,11-03-060-25W5M
 ABGP0001869,Reclamation Certified,Keyspan Blueberry,GP,Keyspan Blueberry,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,,56.15802,-119.07421,16-31-082-07W6M
 ABGP0001870,Suspended,Penn West Esther,GP,Penn West Esther,Campus Energy Partners Operations Inc.,100.0% - Campus Energy Partners Operations Inc.,,51.65089,-110.19089,04-14-031-02W4M
@@ -837,7 +837,7 @@ ABGP0001878,Suspended,Apache Zama,GP,Zama,Paramount Resources Ltd.,100.0% - Para
 ABGP0001879,Suspended,Marathon Seal 7-20 Plant,GP,Marathon Seal,Summerland Energy Inc.,100.0% - Summerland Energy Inc.,,56.12164,-115.99429,07-20-082-13W5M
 ABGP0001880,Active,Clear Hills Bndylks 16-11-88-13W6,GP,Clear Hills,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,,56.62271,-119.94652,16-11-088-13W6M
 ABGP0001881,Suspended,Husky Wayne-Rosedale 11-27,GP,Wayne North,Torxen Energy Ltd.,100.0% - Torxen Energy Ltd.,1995-01-01,51.4252,-112.73862,11-27-028-20W4M
-ABGP0001882,Suspended,* Encal Granlea,GP,Encal Granlea,Taqa North Ltd.,100.0% - Taqa North Ltd.,,49.67504,-111.32264,07-29-008-10W4M
+ABGP0001882,Suspended,Encal Granlea,GP,Encal Granlea,Taqa North Ltd.,100.0% - Taqa North Ltd.,,49.67504,-111.32264,07-29-008-10W4M
 ABGP0001883,Suspended,Conoco Hotchkiss,GP,Conoco Hotchkiss,Conocophillips Canada Resources Corp.,100.0% - Direct Oil & Gas Inc.,,57.15374,-118.33272,07-13-094-03W6M
 ABGP0001884,Suspended,Lightstream Jumpbush,GP,Jumpbush,Ridgeback Resources Inc.,70.0% - Ridgeback Resources Inc.; 30.0% - Siksika Energy Resources Corporation,1992-01-01,50.72338,-112.789,06-25-020-21W4M
 ABGP0001885,Active,Granum 13-31-11-26W4,GP,Granum,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1995-01-01,49.95911,-113.54702,13-31-011-26W4M
@@ -864,19 +864,19 @@ ABGP0001908,Suspended,Atco Fort Saskatchewan,GP,Fort Saskatchewan Straddle Plant
 ABGP0001909,Active,Pancdn Empress,GP,Empress Straddle Plant,Pembina Gas Services Ltd.,100.0% - 2354890 Alberta Ltd.,1996-01-01,50.67204,-110.03106,16-02-020-01W4M
 ABGP0001910,Active,Veep 08-05-054-26W4 Gas Plant,GP,Villeneuve Straddle Plant,Tidewater Midstream And Infrastructure Ltd.,100.0% - Tidewater Midstream And Infrastructure Ltd.,1997-01-01,53.63444,-113.79054,08-05-054-26W4M
 ABGP0001935,Suspended,Husky Windfall,GP,Windfall,Husky Oil Operations Limited,100.0% - Energy Transfer Canada Ulc,1965-01-01,54.18694,-116.20467,08-17-060-15W5M
-ABGP0001936,Unknown,* Suncor (Now 1991),GP,,Suncor Energy Inc.,100.0% - Suncor Energy Inc.,,56.9464,-111.29688,01-01-092-09W4M
-ABGP0001937,Unknown,* Procor Lynton Sulphur Forming,GP,,Procor Lpg Storage Inc.,100.0% - Procor Lpg Storage Inc.,,49.00158,-110.00785,01-01-001-01W4M
-ABGP0001938,Unknown,* Sulmar Redwater,GP,,Unknown Operator/Address - Used By Field Surveillance,100.0% - Unknown Operator/Address - Used By Field Surveillance,,49.00158,-110.00785,01-01-001-01W4M
-ABGP0001939,Unknown,* Burza Lynton,GP,,Unknown Operator/Address - Used By Field Surveillance,100.0% - Unknown Operator/Address - Used By Field Surveillance,,49.00158,-110.00785,01-01-001-01W4M
-ABGP0001940,Unknown,* Syncrude,GP,,Syncrude Canada Ltd.,100.0% - Syncrude Canada Ltd.,,49.00158,-110.00785,01-01-001-01W4M
-ABGP0001941,Suspended,* Chevron Ft Sask,GP,Chevron Ft Sask,Chevron Canada Limited,100.0% - Chevron Canada Limited,,53.74681,-113.15836,02-14-055-22W4M
+ABGP0001936,Unknown,Suncor (Now 1991),GP,,Suncor Energy Inc.,100.0% - Suncor Energy Inc.,,56.9464,-111.29688,01-01-092-09W4M
+ABGP0001937,Unknown,Procor Lynton Sulphur Forming,GP,,Procor Lpg Storage Inc.,100.0% - Procor Lpg Storage Inc.,,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001938,Unknown,Sulmar Redwater,GP,,Unknown Operator/Address - Used By Field Surveillance,100.0% - Unknown Operator/Address - Used By Field Surveillance,,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001939,Unknown,Burza Lynton,GP,,Unknown Operator/Address - Used By Field Surveillance,100.0% - Unknown Operator/Address - Used By Field Surveillance,,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001940,Unknown,Syncrude,GP,,Syncrude Canada Ltd.,100.0% - Syncrude Canada Ltd.,,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001941,Suspended,Chevron Ft Sask,GP,Chevron Ft Sask,Chevron Canada Limited,100.0% - Chevron Canada Limited,,53.74681,-113.15836,02-14-055-22W4M
 ABGP0001942,Suspended,Gibson Fort Sask,GP,Gibson Fort Sask,Gibson Energy Ulc,100.0% - Gibson Energy Ulc,,53.7178,-113.12752,01-01-055-22W4M
 ABGP0001943,Suspended,Mobil Procor Gx,GP,Procor Gx,Exxonmobil Canada Energy,100.0% - Exxonmobil Canada Energy,,49.00158,-110.00785,01-01-001-01W4M
 ABGP0001944,Suspended,Imperial East Edmonton Lpg,GP,East Edmonton Lpg,Imperial Oil Resources Limited,100.0% - Imperial Oil Resources Limited,,49.00158,-110.00785,01-01-001-01W4M
 ABGP0001945,Suspended,Amoco Pembina,GP,Pembina,Bp Canada Energy Group Ulc,100.0% - Bp Canada Energy Group Ulc,,53.16142,-114.90048,13-24-048-07W5M
 ABGP0001946,Suspended,Amoco Cranberry(Kemp River),GP,Chinchaga,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1960-01-01,57.339,-118.6543,01-24-096-05W6M
-ABGP0001947,Suspended,* Voyager Bruce,GP,Voyager Bruce,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,49.00158,-110.00785,01-01-001-01W4M
-ABGP0001950,Suspended,* Gibson Hardisty,GP,Gibson Hardisty,Gibson Energy Ulc,100.0% - Gibson Energy Ulc,,52.63257,-111.26761,11-20-042-09W4M
+ABGP0001947,Suspended,Voyager Bruce,GP,Voyager Bruce,Conocophillips Canada Resources Corp.,100.0% - Conocophillips Canada Resources Corp.,,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001950,Suspended,Gibson Hardisty,GP,Gibson Hardisty,Gibson Energy Ulc,100.0% - Gibson Energy Ulc,,52.63257,-111.26761,11-20-042-09W4M
 ABGP0001951,Suspended,Imperial Devon 1&2,GP,1 And 2,Imperial Oil Resources Limited,100.0% - Conifer Energy Inc.,,54.57231,-115.52295,15-25-064-11W5M
 ABGP0001960,Active,Kanata Valhalla 13-21 Sour Gas Plant,GP,Valhalla,Kanata Energy Group Ltd.,100.0% - Kanata Energy Group Ltd.,1985-01-01,55.60494,-119.3414,13-21-076-09W6M
 ABGP0001961,Suspended,Celsius Worsley,GP,Celsius Worsley,Enerplus Corporation,100.0% - Enerplus Corporation,,56.55736,-118.77585,08-19-087-05W6M
@@ -911,13 +911,13 @@ ABGP0001989,Abandoned,Chinchaga 1-5-96-7W6,GP,Chinchaga,Canadian Natural Resourc
 ABGP0001990,Active,Normandville N 3-36-79-23W5,GP,Normandville North,Canadian Natural Resources Limited,90.0% - Canadian Natural Resources Limited; 10.0% - Obsidian Energy Ltd.,,55.8852,-117.46268,03-36-079-23W5M
 ABGP0001991,Unknown,Suncor (Gcos),GP,,Suncor Energy Inc.,100.0% - Suncor Energy Inc.,,56.9464,-111.29688,01-01-092-09W4M
 ABGP0001992,Unknown,Syncrude,GP,,Syncrude Canada Ltd.,100.0% - Syncrude Canada Ltd.,,57.03362,-111.45788,01-01-093-10W4M
-ABGP0001993,Suspended,* Shell Warburg,GP,Shell Warburg,Shell Canada Limited,100.0% - Shell Canada Limited,,53.16513,-114.32179,01-26-048-03W5M
+ABGP0001993,Suspended,Shell Warburg,GP,Shell Warburg,Shell Canada Limited,100.0% - Shell Canada Limited,,53.16513,-114.32179,01-26-048-03W5M
 ABGP0001994,Suspended,Viking-Kinsella 1-30-47-9W4,GP,Scovil Lake,Pine Cliff Energy Ltd.,100.0% - Pine Cliff Energy Ltd.,,53.0761,-111.30021,01-30-047-09W4M
 ABGP0001995,Active,Devon Montag,GP,Montag,Xgen Ventures Inc.,100.0% - Xgen Ventures Inc.,,56.39466,-118.88716,03-28-085-06W6M
 ABGP0001996,Suspended,Compton Montag,GP,Clayhurst,Lexin Resources Ltd.,100.0% - Lexin Resources Ltd.,,56.38365,-118.90051,08-20-085-06W6M
 ABGP0001997,Active,Cecil North 16-4-85-8W6,GP,Cecil North,Canadian Natural Resources Limited,36.5% - Canadian Natural Resources Limited; 12.7% - Cequence Energy Ltd.; 20.9% - Harvest Operations Corp.; 16.4% - Taqa North Ltd.; 1.9% - Sword Energy Inc.; 2.3% - Ish Energy Ltd.; 9.7% - Terra Energy Corp.,1998-01-01,56.34736,-119.19071,16-04-085-08W6M
 ABGP0001998,Suspended,Rainbow (Sousa),GP,Sousa,Nuvista Energy Ltd.,100.0% - Nuvista Energy Ltd.,,58.68335,-118.67292,12-31-111-04W6M
-ABGP0001999,Unknown,* Internal Use Only,GP,,Unknown Operator/Address - Used By Field Surveillance,100.0% - Unknown Operator/Address - Used By Field Surveillance,1999-01-01,49.00158,-110.00785,01-01-001-01W4M
+ABGP0001999,Unknown,Internal Use Only,GP,,Unknown Operator/Address - Used By Field Surveillance,100.0% - Unknown Operator/Address - Used By Field Surveillance,1999-01-01,49.00158,-110.00785,01-01-001-01W4M
 ABGP0075252,Suspended,Markwest Bantry 12-21-18-13 W4 Plant,GP,Bantry,Cardinal Energy Ltd.,100.0% - Cardinal Energy Ltd.,1999-01-01,50.53739,-111.74281,12-21-018-13W4M
 ABGP0075650,Active,Joffre Ethane Extraction Plant,GP,Straddle,Altagas Ltd.,100.0% - Altagas Ltd.,2003-01-01,52.2904,-113.54333,03-29-038-25W4M
 ABGP0075866,Suspended,Nrk Brewster 03-17-043-14W5,GP,Brewster,Taqa North Ltd.,100.0% - Taqa North Ltd.,2004-01-01,52.69988,-115.9991,03-17-043-14W5M
@@ -1194,7 +1194,7 @@ BCGP0000921,Active,Cnrl Ring C-081-I/094-H-09 003,GP,,Canadian Natural Resources
 BCGP0000932,Active,Pengl Fort St John 01-36-082-18 002,GP,Younger Extraction Plant,1195714 Alberta Ltd.,100.0% - 1195714 Alberta Ltd.,1989-04-01,56.14703,-120.66564,01-36-082-18W6M
 BCGP0001243,Active,Westcoast Dry Gas 06-07-080-13 001,GP,Wei,Westcoast Energy Inc.,100.0% - Westcoast Energy Inc.,1993-06-01,55.91795,-120.02632,06-07-080-13W6M
 BCGP0001279,Discontinued,Keyera Bougie D-031-F/094-G-15 001,GP,Bougie,Keyera Energy Ltd.,100.0% - Keyera Energy Ltd.,1994-03-01,57.86238,-122.75776,D-031-F 094-G-15
-BCGP0001593,Cancelled, Star Pine 07-06-077-25 003,GP,Star Pine,Domcan,100.0% - Domcan,,55.64142,-121.86434,07-06-077-25W6M
+BCGP0001593,Cancelled,Star Pine 07-06-077-25 003,GP,Star Pine,Domcan,100.0% - Domcan,,55.64142,-121.86434,07-06-077-25W6M
 BCGP0001647,Active,Tourmaline Martin B-002-E/094-H-06 003,GP,Martin Creek,Tourmaline Oil Corp.,100.0% - Tourmaline Oil Corp.,1995-02-01,57.3374,-121.39521,B-002-E 094-H-06
 BCGP0001692,Discontinued,Cnrl Kahntahriver C-053-D/094-I-02 003,GP,Kahntah,Canadian Natural Resources Limited,100.0% - Canadian Natural Resources Limited,1995-03-15,58.04574,-120.90764,C-053-D 094-I-02
 BCGP0001726,Cancelled,Obsidian Parkland 06-29-081-15 002,GP,Interaction Parkland,Obsidian Energy Ltd.,100.0% - Obsidian Energy Ltd.,,56.04887,-120.3134,06-29-081-15W6M
