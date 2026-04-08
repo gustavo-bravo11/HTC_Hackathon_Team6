@@ -1,5 +1,7 @@
 # Gas Processing Dashboard
 
+The team had 3 days to explore the data, and one 8 hour session to create the dashboard.
+
 This repository contains Team 6's hackathon work for building an employer-facing analytics project around Alberta gas processing performance and environmental releases. The goal was to answer a practical industry question: can we build a site-level view for Keyera that shows how efficiently each site extracts gas and NGL products, how C3+ performance changes across facilities, and how environmental releases can be mapped using government data?
 
 The project combines:
